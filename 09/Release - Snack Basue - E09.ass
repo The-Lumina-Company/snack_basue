@@ -1,0 +1,406 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Main - Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP Title Screen 'Snack Basue',Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00E300E0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,246,246,15,1
+Style: Eyecatch - Snack Basue,Trebuchet MS,16,&H0053005D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,53,473,235,1
+Style: Snack - Episode Title,Verdana,18,&H00AD3B97,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,204,204,15,1
+Style: sign_15060_154__The_me_who_can_,Verdana,18,&H00AD3B97,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,164,164,15,1
+Style: sign_30226_379__While_Listening,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,215,129,207,1
+Style: sign_30226_378_Reserved________,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,100,428,210,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 9,0:00:21.38,0:00:24.75,Default,Hero,0,0,0,,Birden fazla atak artırma \Nbüyüsüyle güçlendirilmiş normal saldırı!
+Dialogue: 9,0:00:32.97,0:00:35.10,Default,Holy Sword,0,0,0,,Tebrikler, Kahraman...
+Dialogue: 9,0:00:35.67,0:00:38.96,Default,Holy Sword,0,0,0,,Kutsal Kılıcın Koruyucusu'nu \Nyenerek iyi iş çıkardın...
+Dialogue: 9,0:00:39.38,0:00:40.89,Default,Hero,0,0,0,,Bu, Kutsal Kılıç...
+Dialogue: 9,0:00:42.12,0:00:44.14,Default,Hero,0,0,0,,Efsanevi Kutsal Kılıç!
+Dialogue: 9,0:00:45.02,0:00:46.49,Default,Hero,0,0,0,,Efsenevi Kutsal Kılıç mı?
+Dialogue: 9,0:00:47.00,0:00:48.51,Default,Holy Sword,0,0,0,,Sevgili Kahraman...
+Dialogue: 9,0:00:48.51,0:00:50.79,Default,Hero,0,0,0,,Sku... Enik..?
+Dialogue: 9,0:00:51.62,0:00:56.58,Default,Holy Sword,0,0,0,,Kılıcı almadan önce, \Nsoruma cevap ver...
+Dialogue: 9,0:00:57.38,0:01:02.10,Default,Holy Sword,0,0,0,,Senin için gerçek güç nedir?
+Dialogue: 9,0:01:02.10,0:01:04.01,Default,Hero,0,0,0,,Gerçek güç mü?
+Dialogue: 9,0:01:06.72,0:01:10.18,Default,Hero,0,0,0,,Duruma göre değişir... Zamana ve şartlara \Nbağlı diyebilirim.
+Dialogue: 9,0:01:10.18,0:01:15.22,Default,Holy Sword,0,0,0,,Büyük bir talihsizlik, ama görünüşe göre \Nkılıcını almaya henüz hazır değilsin.
+Dialogue: 9,0:01:15.90,0:01:18.08,Default,Holy Sword,0,0,0,,Gerçek güç...
+Dialogue: 9,0:01:18.08,0:01:23.13,Default,Holy Sword,0,0,0,,Cevabı bulduğunda, \Nbu yere tekrar gel...
+Dialogue: 9,0:01:24.73,0:01:28.11,Default,Hero,0,0,0,,Gerçek... güç...
+Dialogue: 9,0:01:29.50,0:01:30.27,Default,Hero,0,0,0,,Nedir ki?
+Dialogue: 9,0:01:30.27,0:01:33.11,Default,Akemi,0,0,0,,Eğer bunu eski bir snack bar'da soruyorsan
+Dialogue: 9,0:01:33.11,0:01:34.52,Default,Akemi,0,0,0,,zaten hiçbir zaman anlayamayacaksın demektir...
+Dialogue: 0,0:01:42.13,0:01:46.99,OP Title Screen 'Snack Basue',Sign,0,0,0,,{\fad(1,200)\pos(199,92)\blur4\1a&H11&}Snack       Basue
+Dialogue: 0,0:01:46.99,0:01:48.22,OP Title Screen 'Snack Basue',Sign,0,0,0,,{\fad(217,1)\pos(199,92)\blur4\c&H5D0060&\1a&H11&\3c&HF5F9F4&}Snack       Basue
+Dialogue: 0,0:03:05.38,0:03:10.38,Snack - Episode Title,Caption,0,0,0,,{\pos(136.889,272)\fad(521,517)}(Kendini Serbest Bırak)
+Dialogue: 0,0:03:05.38,0:03:10.38,Snack - Episode Title,Caption,0,0,0,,{\pos(259.2,333)\fad(521,517)}(Çok fazla düşünüyorsun)
+Dialogue: 9,0:03:09.43,0:03:12.59,Main - Top,Yamada,0,0,0,,Ee... Bu... kim?
+Dialogue: 9,0:03:12.59,0:03:13.60,Default,Akemi,0,0,0,,Kahraman...
+Dialogue: 9,0:03:13.99,0:03:15.14,Default,Yamada,0,0,0,,Kahraman..?
+Dialogue: 9,0:03:15.97,0:03:16.87,Default,Akemi,0,0,0,,Aklıma gelmişken,
+Dialogue: 9,0:03:16.87,0:03:20.77,Default,Akemi,0,0,0,,Bir kahramanın buraya düzenli olarak gelmesi, \Nçok can sıkıcı bir durum yani...
+Dialogue: 9,0:03:20.77,0:03:23.79,Default,Hero,0,0,0,,O zaman neden orada bir kaydetme noktası var?
+Dialogue: 9,0:03:23.79,0:03:25.11,Default,Akemi,0,0,0,,Ne?! O da ne lan?
+Dialogue: 9,0:03:25.11,0:03:26.54,Default,Akemi,0,0,0,,Belediyenin atık sınıflandırmasına göre,
+Dialogue: 9,0:03:26.54,0:03:27.74,Default,Akemi,0,0,0,,bu şey ne tür bir çöp sayılıyor acaba?!
+Dialogue: 9,0:03:27.74,0:03:32.36,Default,Hero,0,0,0,,Ve o da maceran için ipuçları veren \Nyaşlı falcı bunak değil mi?
+Dialogue: 9,0:03:33.38,0:03:38.58,Default,Akemi,0,0,0,,Doğru. O sıklıkla \Nhayat olarak bilinen macera için nasihat verir, ama...
+Dialogue: 9,0:03:38.58,0:03:44.70,Default,Basue,0,0,0,,Benim durumumda ise, sadece duymak \Nistediğin kelimeleri arayıp
+Dialogue: 9,0:03:44.70,0:03:47.66,Default,Basue,0,0,0,,seni onlara yönlendiriyorum, hepsi bu...
+Dialogue: 9,0:03:47.66,0:03:49.26,Default,Akemi,0,0,0,,Güzel espri!
+Dialogue: 9,0:03:49.59,0:03:52.33,Default,Akemi,0,0,0,,Şu Kutsal Kılıç konusu...
+Dialogue: 9,0:03:52.33,0:03:55.79,Default,Akemi,0,0,0,,Onun sözünü hiç takmayıp kılıcı \Nzorla alıp kaçsan daha iyi olmaz mıydı?
+Dialogue: 9,0:03:55.79,0:04:01.81,Default,Akemi,0,0,0,,Belki de sadece kendi gücüyle onu \Nçalabilenler o kudreti hak ediyordur?
+Dialogue: 9,0:04:01.81,0:04:05.85,Default,Hero,0,0,0,,Alaycı ortaokul veletleri \Ngibi konuşmak iyi bir şey değil.
+Dialogue: 9,0:04:05.85,0:04:07.45,Default,Akemi,0,0,0,,Madem bu kadar mantıklı \Nkonuşacaksın...
+Dialogue: 9,0:04:07.45,0:04:10.19,Default,Akemi,0,0,0,,en azından kıyafet kurallarına uyup \Nbu dünyaya ait bir şeyler giyebilir misin?
+Dialogue: 9,0:04:10.19,0:04:13.62,Default,Hero,0,0,0,,O zaman sana göre gerçek güç nedir, \Nküçük işletmeci?
+Dialogue: 9,0:04:14.18,0:04:15.90,Default,Akemi,0,0,0,,Bana göre gerçek güç mü?
+Dialogue: 9,0:04:19.48,0:04:20.40,Default,Akemi,0,0,0,,Para.
+Dialogue: 9,0:04:21.98,0:04:24.55,Default,Junior high school brat,0,0,0,,Evet, hayat sadece paradan ibaret.
+Dialogue: 9,0:04:24.55,0:04:27.50,Default,Adult Junior high school brat,0,0,0,,Sadece paradan ibaret değil! \NHayalimdeki işi yapacağım.
+Dialogue: 9,0:04:27.50,0:04:39.77,Main - Top,Middle-aged Junior high school brat,0,0,0,,Para... Para... Para... Para!
+Dialogue: 9,0:04:30.14,0:04:32.71,Default,Hero,0,0,0,,Gerçek dünyanın ne olduğunu bildiğini \Nsanan ortaokul veledi sen misin?
+Dialogue: 9,0:04:32.71,0:04:36.02,Default,Akemi,0,0,0,,Bunun bir ortaokul veledinin söyleyebileceği \Nbir şey olduğunun farkındayım...
+Dialogue: 9,0:04:36.02,0:04:39.77,Default,Akemi,0,0,0,,ama gerçek dünyaya adımımı attım \Nve her şeyin paradan ibaret olduğunu anladım!
+Dialogue: 9,0:04:39.77,0:04:42.74,Default,Akemi,0,0,0,,Gerçek gücün ne olduğunu bilmiyorum...
+Dialogue: 9,0:04:43.24,0:04:45.29,Default,Akemi,0,0,0,,Ne düşünüyorsun, yaşlı falcı bunak?
+Dialogue: 9,0:04:45.29,0:04:48.50,Default,Basue,0,0,0,,Cevap bu kristal kürenin \Niçinde saklı...
+Dialogue: 9,0:04:49.11,0:04:52.60,Default,Basue,0,0,0,,Gerçek güç...
+Dialogue: 9,0:04:52.60,0:04:53.87,Default,Basue,0,0,0,,Sevgi!
+Dialogue: 9,0:04:53.87,0:04:57.78,Default,Akemi,0,0,0,,Bu ebeveynleri tarafından ilgi görmüş bir \Nortaokul veledinin vereceği cevap.
+Dialogue: 9,0:04:57.78,0:05:00.93,Default,Yamada,0,0,0,,Ayrıca, gerçek gücün sadece
+Dialogue: 9,0:05:00.93,0:05:03.57,Default,Yamada,0,0,0,,ortaokul veletleri tarafından konuşulacak bir \Nşey olduğunu düşünmüyor musun?
+Dialogue: 9,0:05:03.57,0:05:07.15,Default,Akemi,0,0,0,,Değil mi? Nasıl söylersen söyle, \Ngerçek gücün cevabını aramak
+Dialogue: 9,0:05:07.15,0:05:09.38,Default,Akemi,0,0,0,,Sadece ortaokul \Nveledi havası katıyor...
+Dialogue: 9,0:05:09.38,0:05:12.76,Default,Hero,0,0,0,,Bunu düşünmek beni aptal gibi hissettiriyor, \No yüzden lütfen kesin şunu.
+Dialogue: 9,0:05:12.76,0:05:16.98,Default,Akemi,0,0,0,,Pekâlâ, bence para sevgiden daha \Ngüçlüdür, o yüzden...
+Dialogue: 9,0:05:16.98,0:05:19.53,Default,Basue,0,0,0,,Ha? Öyle mi düşünüyorsun?
+Dialogue: 9,0:05:19.53,0:05:22.17,Default,Akemi,0,0,0,,Çünkü hayat gerçekten sadece paradan ibaret!
+Dialogue: 9,0:05:22.17,0:05:25.39,Default,Akemi,0,0,0,,Bu kelimeler pek çok insan \Ntarafından yaygın olarak kabul görmektedir.
+Dialogue: 9,0:05:25.39,0:05:27.91,Default,Akemi,0,0,0,,Eğer paran varsa her şeyi alabilirsin!
+Dialogue: 9,0:05:27.91,0:05:31.86,Default,Akemi,0,0,0,,Sevgi ise... paraya göre \Nsadece geçici bir şey!
+Dialogue: 9,0:05:31.86,0:05:32.65,Default,Basue,0,0,0,,Yanlış!
+Dialogue: 9,0:05:33.10,0:05:34.34,Default,Basue,0,0,0,,Asıl sevgi kalıcıdır!
+Dialogue: 9,0:05:34.34,0:05:37.23,Default,Basue,0,0,0,,Ona "geçici bir şey" demek \Nbahaneden başka bir şey değildir!
+Dialogue: 9,0:05:37.23,0:05:38.33,Default,Basue,0,0,0,,Sevgi!
+Dialogue: 9,0:05:38.33,0:05:40.42,Default,Basue,0,0,0,,Çok kıymetlidir!
+Dialogue: 9,0:05:40.42,0:05:44.04,Default,Basue,0,0,0,,Eğer gerçek sevgiyse paraya karşı \Nkesinlikle kaybedemez!
+Dialogue: 9,0:05:45.11,0:05:48.69,Default,Basue,0,0,0,,Sevgi olmadan bir zengin hayatı...
+Dialogue: 9,0:05:48.69,0:05:50.24,Default,Basue,0,0,0,,değersizdir, bunu bil!
+Dialogue: 9,0:05:50.24,0:05:54.29,Default,Akemi,0,0,0,,Bu laflarla kapitalizme meydan \Nokuyacaksan eğer, Mama...
+Dialogue: 9,0:05:51.53,0:05:55.05,Main - Top,Basue {background},0,0,0,,Sevgi... Sevgi...
+Dialogue: 9,0:05:54.29,0:05:56.14,Default,Akemi,0,0,0,,o zaman karşında topyekün bir \Ndireniş bulmaya hazır ol!
+Dialogue: 9,0:05:56.75,0:05:58.14,Default,Basue,0,0,0,,Hem ayrıca,
+Dialogue: 9,0:05:58.64,0:06:04.66,Default,Basue,0,0,0,,Akemi-chan, eski sevgilin yüzünden \Nhâlâ borç içindesin.
+Dialogue: 9,0:06:04.66,0:06:10.08,Default,Basue,0,0,0,,yani para yerine sevgiyi seçtiğin anlamına geliyor. \NBu sevginin kazandığı anlamına gelmiyor mu?
+Dialogue: 9,0:06:10.08,0:06:13.69,Default,Akemi,0,0,0,,Bir şekilde, bu sevgiyi para ile \Nalmışım gibi hissettiriyor,
+Dialogue: 9,0:06:13.69,0:06:16.70,Default,Akemi,0,0,0,,ama bende laf anlatacak... \Nheves falan kalmadı.
+Dialogue: 9,0:06:17.02,0:06:20.47,Default,Hero,0,0,0,,O zaman gerçek gücün sevgi olduğuna karar veriyoruz.
+Dialogue: 9,0:06:20.47,0:06:22.74,Default,Yamada,0,0,0,,Ah, bir dakika, lütfen.
+Dialogue: 9,0:06:22.74,0:06:23.54,Default,Hero,0,0,0,,Efendim?
+Dialogue: 9,0:06:24.60,0:06:28.35,Default,Yamada,0,0,0,,Eğer bu cevabı başkasından öğrendiğini \Nbelli edecek bir tavırla söylersen...
+Dialogue: 9,0:06:28.99,0:06:32.25,Default,Yamada,0,0,0,,sence de Kutsal Kılıç bu cevabı \Nreddetmez mi?
+Dialogue: 9,0:06:32.25,0:06:35.42,Default,Yamada,0,0,0,,Sonuçta kalbinden gelerek söylenmiş olmayacak.
+Dialogue: 9,0:06:35.42,0:06:38.29,Default,Hero,0,0,0,,Yani her şeyi kendi başlarına başarmış \Ngibi davranıp...
+Dialogue: 9,0:06:38.29,0:06:42.56,Default,Hero,0,0,0,,ama aslında internetten bölüm rehberine bakan \Nveya videosunu izleyenler gitsin ölsün mü diyorsun?
+Dialogue: 9,0:06:42.56,0:06:48.14,Default,Basue,0,0,0,,Senin dünyanda bile var olmayan \Nbir örnekle bize laf sokmayı bırak.
+Dialogue: 9,0:06:48.14,0:06:53.61,Default,Yamada,0,0,0,,Dürüst olmak gerekirse soruyu soran kişinin bile \Ngerçek gücün ne olduğunu bildiğini sanmıyorum.
+Dialogue: 9,0:06:54.48,0:06:58.58,Default,Yamada,0,0,0,,Direkt net bir cevap vermek yerine, \Nneden belirsiz bir şekilde ifade etmeyi denemiyorsun?
+Dialogue: 9,0:06:58.58,0:07:01.16,Default,Yamada,0,0,0,,Sanki böyle kulağa daha çok inandırıcı geliyor.
+Dialogue: 9,0:07:01.62,0:07:02.62,Default,Hero,0,0,0,,Mesela?
+Dialogue: 9,0:07:03.43,0:07:05.14,Default,Yamada,0,0,0,,Bakalım...
+Dialogue: 9,0:07:06.32,0:07:09.59,Default,Yamada,0,0,0,,Şey gibi mesela... \Ninsanın kendi nefsini yenmesi?
+Dialogue: 9,0:07:10.21,0:07:13.90,Default,Hero,0,0,0,,İnsanın... kendi nefsini yenmesi mi?
+Dialogue: 9,0:07:21.99,0:07:23.13,Default,Hero,0,0,0,,Ölmek mi?
+Dialogue: 9,0:07:23.13,0:07:24.01,Default,Hero,0,0,0,,Kendi kendimi mi?
+Dialogue: 9,0:07:26.67,0:07:28.06,Default,Hero,0,0,0,,Yani intihar mı edeyim?
+Dialogue: 9,0:07:28.06,0:07:31.11,Default,Yamada,0,0,0,,Olay her zaman canını riske \Natmak değildir yani!
+Dialogue: 9,0:07:31.44,0:07:35.60,Default,Basue,0,0,0,,Yine de, bir şekilde, bağlantılı...
+Dialogue: 9,0:07:35.60,0:07:39.87,Default,Basue,0,0,0,,Bu ölümün acısını ve korkusunu \Nyenme gücüdür.
+Dialogue: 9,0:07:39.87,0:07:44.91,Default,Basue,0,0,0,,İnsanın kendini yenmesi demek, \Nkendi zihnini kontrol etmesi demektir.
+Dialogue: 9,0:07:44.91,0:07:48.67,Default,Akemi,0,0,0,,"Bu kıyafetleri çok istiyorum, \Nama sadece bu ay yetecek kadar yemeğim var...
+Dialogue: 9,0:07:48.67,0:07:50.72,Default,Akemi,0,0,0,,Ah! Al gitsin işte!" gibi bir şey mi?
+Dialogue: 9,0:07:50.72,0:07:52.32,Default,Yamada,0,0,0,,Hepsini kontrol etmiyorsun ki!
+Dialogue: 9,0:07:52.32,0:07:55.82,Default,Basue,0,0,0,,Yine de, bir şekilde, bağlantılı...
+Dialogue: 9,0:07:55.82,0:07:57.05,Default,Yamada,0,0,0,,Nasıl?!
+Dialogue: 9,0:07:59.20,0:08:00.17,Default,Akemi,0,0,0,,Bok.
+Dialogue: 9,0:08:00.17,0:08:03.94,Default,Basue,0,0,0,,Evet, o da, bir şekilde bağlantılı...
+Dialogue: 9,0:08:03.94,0:08:05.95,Default,Yamada,0,0,0,,O dediğin şey sadece bağırsak \Nhareketiyle ilgili bir şey!
+Dialogue: 9,0:08:05.95,0:08:08.14,Default,Yamada,0,0,0,,Lütfen artık böyle sorumsuzca \Nyorumlar yapmayı kesin artık!
+Dialogue: 9,0:08:08.14,0:08:09.58,Default,Basue,0,0,0,,Yanlış!
+Dialogue: 9,0:08:09.58,0:08:12.99,Default,Basue,0,0,0,,Kendini yenmek demek, "Eyvah, \Ndurum kötü," diye düşünüp...
+Dialogue: 9,0:08:12.99,0:08:15.62,Default,Basue,0,0,0,,yine de o engelin üstesinden \Ngelebilmektir!
+Dialogue: 9,0:08:15.62,0:08:17.03,Default,Basue,0,0,0,,Yani bu demek oluyor ki!
+Dialogue: 9,0:08:17.03,0:08:21.18,Default,Basue,0,0,0,,Kendi iradenle o boku oraya \N"pıt" diye bırakabilme gücüdür!
+Dialogue: 9,0:08:21.18,0:08:22.11,Default,Yamada,0,0,0,,Ne..?
+Dialogue: 9,0:08:22.89,0:08:27.95,Default,Akemi,0,0,0,,Mama... ilk başta boktan bahsetmemin \Nyanlış olduğunu biliyorum, ama bu söylediklerin yanlış.
+Dialogue: 9,0:08:28.97,0:08:30.33,Default,Yamada and Akemi,0,0,0,,Sakın deneme!
+Dialogue: 9,0:08:32.78,0:08:36.56,Default,Hero,0,0,0,,Bu hiç iyi değil... İnsanlığımın bir kısmını \Nkaybedeceğim gibi hissediyorum.
+Dialogue: 9,0:08:36.96,0:08:41.67,Default,Basue,0,0,0,,İşte insanlığın kendini yenmesi \Ntam olarak bu anlama gelir.
+Dialogue: 9,0:08:41.67,0:08:44.97,Default,Akemi,0,0,0,,Onu altına yaptırmaya çalıştırdığın için \Nkötü olan sensin, Mama!
+Dialogue: 9,0:08:45.22,0:08:48.40,Default,Basue,0,0,0,,Şimdi altına yapmaya hiç gerek yok.
+Dialogue: 9,0:08:48.40,0:08:54.70,Default,Basue,0,0,0,,Ama gerektiğinde, "pıt" diye bırakabilmek \Ngerçek güçtür.
+Dialogue: 9,0:08:54.70,0:08:57.90,Default,Yamada,0,0,0,,Bir insanın ne zaman emirle \N"pıt" diye altına yapması gerekir ki?
+Dialogue: 9,0:08:58.21,0:09:01.23,Default,Akemi,0,0,0,,Hem zaten, altına yapmayı \Nbaşından beri biliyorsan...
+Dialogue: 9,0:09:01.23,0:09:03.55,Default,Akemi,0,0,0,,gerçek gücü aramana gerek \Nkalmaz diye düşünmüyor musun?
+Dialogue: 9,0:09:03.55,0:09:07.41,Default,Basue,0,0,0,,Ama altına yaparak elde edeceğin \Nşey Kutsal Kılıç!
+Dialogue: 9,0:09:07.41,0:09:09.12,Default,Akemi,0,0,0,,Ee, ben öyle düşünmüyorum.
+Dialogue: 9,0:09:09.12,0:09:15.17,Default,Basue,0,0,0,,Son canavarı yenmek için \No Kutsal Kılıç gerekmiyor mu?
+Dialogue: 9,0:09:15.17,0:09:15.93,Default,Hero,0,0,0,,Hayır...
+Dialogue: 9,0:09:23.04,0:09:27.07,Main - Flashback,Last Boss,0,0,0,,Bu benim... ikinci dönüşümüm!
+Dialogue: 9,0:09:28.94,0:09:32.56,Main - Flashback,Last Boss,0,0,0,,Kahraman... kaderin burada bi—!
+Dialogue: 9,0:09:32.56,0:09:35.93,Main - Flashback,Hero,0,0,0,,Birden fazla atak artırma \Nbüyüsüyle güçlendirilmiş normal saldırı!
+Dialogue: 9,0:09:38.16,0:09:40.64,Default,Hero,0,0,0,,Onu Kutsal Kılıç olmadan \Nyenebildim.
+Dialogue: 9,0:09:44.03,0:09:44.74,Default,Yamada,0,0,0,,Ne?
+Dialogue: 9,0:09:46.23,0:09:48.65,Default,Basue,0,0,0,,Onu... yendin mi?
+Dialogue: 9,0:09:49.74,0:09:51.09,Default,Akemi,0,0,0,,Geçmiş zaman mı?
+Dialogue: 9,0:09:51.09,0:09:51.85,Default,Hero,0,0,0,,Evet.
+Dialogue: 9,0:09:53.22,0:09:56.64,Default,Akemi,0,0,0,,Nasıl? Eğer zaten son canavarı \Nyendiysen o zaman
+Dialogue: 9,0:09:56.64,0:09:59.58,Default,Akemi,0,0,0,,gerçek güce ya da Kutsal Kılıç'a \Ngerek yok muydu?
+Dialogue: 9,0:09:59.58,0:10:04.58,Default,Hero,0,0,0,,Hayır. Kutsal Kılıcın Gardiyanı olan \No gizli canavarı yenmişken,
+Dialogue: 9,0:10:04.58,0:10:07.55,Default,Hero,0,0,0,,en güçlü silahı, yani Kutsal Kılıç'ı \Nda almak istiyorum.
+Dialogue: 9,0:10:07.55,0:10:08.97,Default,Yamada,0,0,0,,Tam bir başarım avcısısın.
+Dialogue: 9,0:10:09.36,0:10:14.41,Default,Basue,0,0,0,,İstediğin an "pıt" diye bırakabilmek de \Nbir şekilde başarım avcılığıdır aslında.
+Dialogue: 9,0:10:14.41,0:10:15.41,Default,Yamada,0,0,0,,Hiç sanmıyorum.
+Dialogue: 9,0:10:16.40,0:10:17.51,Default,Akemi,0,0,0,,Şey...
+Dialogue: 9,0:10:19.82,0:10:24.36,Default,Akemi,0,0,0,,Zaten son canavarı yendiysen en güçlü \Nkılıç artık gereksiz değil mi?
+Dialogue: 9,0:10:41.36,0:10:44.88,Default,Akemi,0,0,0,,Boş vaktimiz olduğuna göre, gidip şu emanet \Nşişeleri bir düzene koymak iyi olur.
+Dialogue: 9,0:10:45.43,0:10:48.87,Default,Kosame,0,0,0,,Emanet... şişeler mi?
+Dialogue: 9,0:10:48.87,0:10:52.93,Default,Akemi,0,0,0,,Kosame-chan, 3. bölümden beri \Nburada çalışmana rağmen...
+Dialogue: 9,0:10:52.93,0:10:55.34,Default,Akemi,0,0,0,,nasıl emanet şişe sistemini bilmezsin?
+Dialogue: 9,0:10:55.34,0:10:56.72,Default,Kosame,0,0,0,,Üzgünüm...
+Dialogue: 9,0:10:57.10,0:10:58.36,Default,Akemi,0,0,0,,Sorun değil.
+Dialogue: 9,0:10:58.95,0:11:02.65,Default,Akemi,0,0,0,,Bilmeyenler için \Nburada herkese açıklayacağım.
+Dialogue: 9,0:11:02.65,0:11:04.65,Default,Kosame,0,0,0,,Kiminle konuşuyorsun?
+Dialogue: 9,0:11:05.20,0:11:07.84,Default,Akemi,0,0,0,,Emanet şişe sistemi; müşterinin tek seferde \Nbütün bir şişe satın alıp
+Dialogue: 9,0:11:07.84,0:11:13.23,Default,Akemi,0,0,0,,saklanması için bara bırakmasıdır.
+Dialogue: 9,0:11:13.23,0:11:16.87,Default,Akemi,0,0,0,,Her seferinde tek tek içki söylemekten \Ndaha hesaplıdır.
+Dialogue: 9,0:11:16.87,0:11:23.21,Default,Kosame,0,0,0,,Anladım. O zaman, Tatsu-ni gibi \Ndüzenli müşterilerin de mi emanet şişesi var?
+Dialogue: 9,0:11:23.21,0:11:29.34,Default,Akemi,0,0,0,,Tatsu-ni pahalı şişeleri emanete bırakıp \Narkasından ucuz sınırsız içki menüsünden sipariş ediyor.
+Dialogue: 9,0:11:29.34,0:11:30.79,Default,Kosame,0,0,0,,Neden peki?
+Dialogue: 9,0:11:30.79,0:11:33.26,Default,Akemi,0,0,0,,Hiçbir fikrim yok. Çok garip birisi.
+Dialogue: 9,0:11:33.64,0:11:37.25,Default,Akemi,0,0,0,,Emanet şişelerimizin \Nyarım yıllık bir raf ömrü vardır.
+Dialogue: 9,0:11:37.25,0:11:38.94,Default,Akemi,0,0,0,,Ondan sonra...
+Dialogue: 9,0:11:39.27,0:11:41.34,Default,Akemi,0,0,0,,Onlardan kurtulmak bizim sorumluluğumuzdur!
+Dialogue: 9,0:11:44.98,0:11:46.53,Default,Akemi,0,0,0,,Kap bakalım bedava içkiyi!
+Dialogue: 9,0:11:46.53,0:11:50.63,Default,Akemi,0,0,0,,Üstelik, işteyiz, \Nyani bedava içki içmek için para alıyoruz.
+Dialogue: 9,0:11:50.63,0:11:51.60,Default,Kosame,0,0,0,,Akemi-san.
+Dialogue: 9,0:11:51.60,0:11:52.40,Default,Akemi,0,0,0,,Efendim?
+Dialogue: 9,0:11:52.91,0:11:55.11,Default,Kosame,0,0,0,,Düşünüyorum da...
+Dialogue: 9,0:11:55.74,0:11:56.60,Default,Akemi,0,0,0,,Evet?
+Dialogue: 9,0:11:58.20,0:12:00.38,Default,Kosame,0,0,0,,İçkinin... tadı güzel mi?
+Dialogue: 9,0:12:00.38,0:12:02.19,Default,Akemi,0,0,0,,Çok çocukça bir soru.
+Dialogue: 9,0:12:02.58,0:12:07.32,Default,Akemi,0,0,0,,Bana içkinin lezzetli olup \Nolmadığını soruyorsan yani...
+Dialogue: 9,0:12:08.75,0:12:10.54,Default,Akemi,0,0,0,,Şey...
+Dialogue: 9,0:12:12.59,0:12:15.53,Main - Italics,Akemi,0,0,0,,Sahi ya..? Sen öyle söyleyince \Nfark ettim...
+Dialogue: 9,0:12:15.53,0:12:19.72,Main - Italics,Akemi,0,0,0,,Ben niye bu iğrenç suyu \Nkana kana içiyorum ki?
+Dialogue: 9,0:12:20.35,0:12:24.19,Default,Kosame,0,0,0,,Bunu fark etmem biraz geç oldu sanki \Nama herkes sadece sarhoş olmak için içiyor gibi.
+Dialogue: 9,0:12:24.19,0:12:27.71,Default,Kosame,0,0,0,,Yani aslında kimsenin tadını \Nbeğendiğini falan sanmıyorum.
+Dialogue: 9,0:12:27.71,0:12:31.95,Default,Akemi,0,0,0,,Madem her şeyi bu kadar geç farkediyorsun, \No zaman niye burada çalışmaya başladın, Kosame-chan?
+Dialogue: 9,0:12:32.70,0:12:37.70,Eyecatch - Snack Basue,Caption,0,0,0,,Snack Basue
+Dialogue: 9,0:12:34.99,0:12:36.83,Default,Hero,0,0,0,,Snack Basue.
+Dialogue: 0,0:12:37.70,0:12:43.50,Eyecatch - Snack Basue,Caption,0,0,0,,{\fs12\c&HA99AAE&\pos(531.6,309)}Snack Basue
+Dialogue: 0,0:12:38.08,0:12:43.08,Snack - Episode Title,Caption,0,0,0,,{\fad(521,517)\pos(286.4,332.2)}(Beni bekletme)
+Dialogue: 0,0:12:38.08,0:12:43.08,Snack - Episode Title,Caption,0,0,0,,{\fad(521,517)\pos(121.067,273.533)}(Daha Zor Olamaz)
+Dialogue: 9,0:12:50.67,0:12:52.40,Default,Morita,0,0,0,,Hey, Akemi-chan.
+Dialogue: 9,0:12:53.30,0:12:57.51,Default,Morita,0,0,0,,Bugün bende bir değişiklik \Nhissetmiyor musun?
+Dialogue: 9,0:12:57.51,0:12:59.82,Default,Akemi,0,0,0,,Uyan!
+Dialogue: 9,0:12:59.82,0:13:01.21,Default,Morita,0,0,0,,Uykumda konuşmuyorum ki.
+Dialogue: 9,0:13:01.89,0:13:05.51,Default,Morita,0,0,0,,Hadi ama... Biraz daha yakından bak...
+Dialogue: 9,0:13:05.51,0:13:08.73,Default,Akemi,0,0,0,,Ah, hasta oluyormuşum gibi hissediyorum.
+Dialogue: 9,0:13:08.73,0:13:10.88,Default,Morita,0,0,0,,Bunu söylemek çok ayıp ama. Cidden...
+Dialogue: 9,0:13:11.23,0:13:16.51,Default,Morita,0,0,0,,Zaten tam da bu yüzden seni çekinmeden \Nsevgimle boğabiliyorum.
+Dialogue: 9,0:13:16.51,0:13:21.43,Default,Morita,0,0,0,,Eğer normal bir kızı böyle sevgiye boğsaydım, \Nonun adına üzülürdüm.
+Dialogue: 9,0:13:21.43,0:13:23.00,Default,Akemi,0,0,0,,Ne kadar da sıradan bir karanlık...
+Dialogue: 9,0:13:26.19,0:13:30.19,Default,Tatsu-ni,0,0,0,,Bana bakarsan \Nben de cevabı bilmiyorum.
+Dialogue: 9,0:13:30.19,0:13:31.70,Default,Akemi,0,0,0,,Yaşlı olduğun için mi?
+Dialogue: 9,0:13:31.70,0:13:37.36,Default,Tatsu-ni,0,0,0,,Eğer durum oysa ona cevap veremediğin için \Naynısı senin içinde geçerli, Akemi-chan.
+Dialogue: 9,0:13:39.38,0:13:42.59,Default,Akemi,0,0,0,,Hımm... Daha farklı bir şey.
+Dialogue: 9,0:13:43.02,0:13:46.38,Default,Akemi,0,0,0,,Şimdi bakınca... \Ntüylerin daha mı güzel görünüyor ne?
+Dialogue: 9,0:13:46.38,0:13:49.36,Default,Morita,0,0,0,,Bana bir hayvanmışım gibi \Nbaktığını gösteriyor bu!
+Dialogue: 9,0:13:49.36,0:13:53.12,Default,Akemi,0,0,0,,O zaman bu sesli ağlamalar neden?
+Dialogue: 9,0:13:53.12,0:13:54.54,Default,Morita,0,0,0,,Anlayamıyor musun?
+Dialogue: 9,0:13:54.54,0:13:55.51,Default,Akemi,0,0,0,,Hayır.
+Dialogue: 9,0:13:56.00,0:13:57.86,Default,Morita,0,0,0,,O zaman söyleyeyim...
+Dialogue: 9,0:13:59.14,0:14:00.17,Default,Morita,0,0,0,,Şu anda...
+Dialogue: 9,0:14:01.47,0:14:03.28,Default,Morita,0,0,0,,Otuzbir çekmeyi bırakıyorum!
+Dialogue: 9,0:14:05.87,0:14:08.26,Default,Morita,0,0,0,,O yüzden, ikiniz de durun...
+Dialogue: 9,0:14:08.26,0:14:11.00,Default,Morita,0,0,0,,Bu hikâyenin dinlemeye değer \Nolduğunu düşünüyorum.
+Dialogue: 9,0:14:11.86,0:14:16.14,Default,Morita,0,0,0,,Eğer olmadığını düşünüyorsan \Nyüzüme havlu fırlatmana bile bozulmam—
+Dialogue: 9,0:14:16.14,0:14:18.07,Default,Morita,0,0,0,,Hızlı ve sert... Anlıyorum...
+Dialogue: 9,0:14:20.57,0:14:23.14,Default,Morita,0,0,0,,Cidden, bırakmak harika bir şey, sana diyorum!
+Dialogue: 9,0:14:23.14,0:14:25.89,Default,Akemi,0,0,0,,Havlu fırlattıktan sonra \Nbu saçmalığın durması gerekmiyor muydu?!
+Dialogue: 9,0:14:27.55,0:14:31.60,Default,Akemi,0,0,0,,Yok artık! Böyle bir şey yapmak \Nsenin aklına nasıl geldi ki?
+Dialogue: 9,0:14:32.36,0:14:35.05,Default,Morita,0,0,0,,Çünkü... eğer otuzbir çekmeyi bırakırsam
+Dialogue: 9,0:14:35.05,0:14:38.53,Default,Morita,0,0,0,,kitap vücudumun ve ruhumun \Ndaha hafif olacağını söyledi!
+Dialogue: 9,0:14:38.53,0:14:42.59,Default,Akemi,0,0,0,,Kitap diyorsun, \Nama o bildiğin erotik manga değil mi?
+Dialogue: 9,0:14:42.59,0:14:44.22,Default,Morita,0,0,0,,Nasıl anladın?!
+Dialogue: 9,0:14:44.22,0:14:47.31,Default,Akemi,0,0,0,,Okuduğun kitap türleri \Nçok tahmin edilebilir.
+Dialogue: 9,0:14:48.79,0:14:57.06,Default,Akemi,0,0,0,,Yine de senin gibi birini düşününce, \Notuzbir çekmeyerek iyi dayanmışsın, Morita?
+Dialogue: 9,0:14:57.06,0:14:58.30,Default,Morita,0,0,0,,Değil mi?
+Dialogue: 9,0:14:59.21,0:15:02.23,Default,Morita,0,0,0,,Şimdilik, üç günde bir postaya düşürdüm!
+Dialogue: 9,0:15:02.23,0:15:04.31,Default,Akemi,0,0,0,,Bu yine de çok fazla!
+Dialogue: 9,0:15:04.31,0:15:08.64,Default,Morita,0,0,0,,Hayır, o kadar da değil. O okul gezisinden beri \Nbu kadar sabırlı olmadım.
+Dialogue: 9,0:15:08.64,0:15:12.15,Default,Akemi,0,0,0,,O dört gün üç gecelik gezide kendini \Nkontrol edemediğini görmek...
+Dialogue: 9,0:15:12.70,0:15:17.49,Default,Morita,0,0,0,,O okul gezisi için bir şekilde dolapta \Notuzbir çekerek üstesinden gelebildim.
+Dialogue: 9,0:15:14.87,0:15:23.03,Main - Top,Morita {background},0,0,0,,Şlak! Şlak! Şlak!
+Dialogue: 9,0:15:17.49,0:15:19.58,Default,Akemi,0,0,0,,Japonya'nın en sevilen karakterlerinin yattığı yeri...
+Dialogue: 9,0:15:19.58,0:15:22.22,Default,Akemi,0,0,0,,nasıl pislettiğini zaten duyduk!
+Dialogue: 9,0:15:23.47,0:15:27.61,Default,Akemi,0,0,0,,Düşündüğüm gibi, buna \Nbırakmak diyemezsin, Morita.
+Dialogue: 9,0:15:27.61,0:15:32.84,Default,Morita,0,0,0,,Akemi-chan, önemli olan kendini çok zorlamadan \Nyola devam edebilmek.
+Dialogue: 9,0:15:33.25,0:15:36.39,Default,Morita,0,0,0,,Sigarayı bırakanlar bile\N bunu adım adım yapıyor, değil mi?
+Dialogue: 9,0:15:36.39,0:15:39.11,Default,Morita,0,0,0,,Yola devam edebilmek için \N"kendini tatmin etmen" lazım!
+Dialogue: 9,0:15:39.11,0:15:43.00,Default,Akemi,0,0,0,,Kendini tatmin etmek mi? Araya \Nsapıkça kelimeler sıkıştırmayı kes!
+Dialogue: 9,0:15:44.47,0:15:47.78,Default,Tatsu-ni,0,0,0,,Ama Morita-chan, sen bir işe \Nbağlı kalmaktan nefret edersin,
+Dialogue: 9,0:15:47.78,0:15:51.86,Default,Tatsu-ni,0,0,0,,tıpkı Akemi-chan gibi. Ne diye uğraşıyorsun?
+Dialogue: 9,0:15:51.86,0:15:55.06,Default,Morita,0,0,0,,Bu yıl bir şey yapmam \Ngerektiğini düşünüyordum ve...
+Dialogue: 9,0:15:55.54,0:15:56.38,Default,Tatsu-ni,0,0,0,,Evet.
+Dialogue: 9,0:15:57.10,0:15:59.11,Default,Morita,0,0,0,,Hipnoz kayıtlarını bilir misin?
+Dialogue: 9,0:15:59.68,0:16:01.45,Default,Tatsu-ni,0,0,0,,Hipnoz kayıtları mı?
+Dialogue: 9,0:16:01.84,0:16:03.93,Default,Morita,0,0,0,,Erotik bir ses dinleyerek
+Dialogue: 9,0:16:03.93,0:16:05.92,Default,Morita,0,0,0,,bayağı azgınca bir hipnoza giriyorsun \Nve seni çok iyi hissettiriyor.
+Dialogue: 9,0:16:05.92,0:16:09.86,Default,Morita,0,0,0,,Ve ben de kendime hiç dokunmadan \Nrahatlayabileceğimi düşünüp gaza gelmiştim ama—
+Dialogue: 9,0:16:09.86,0:16:11.96,Default,Morita,0,0,0,,Bana ıslatılmış bir havlu \Nfırlatırsan ölebilirim, biliyorsun ya!
+Dialogue: 9,0:16:12.60,0:16:13.73,Default,Tatsu-ni,0,0,0,,İkincisi!
+Dialogue: 9,0:16:13.73,0:16:16.16,Default,Morita,0,0,0,,Senin vicdanın yok mu?!
+Dialogue: 9,0:16:19.20,0:16:23.30,Default,Morita,0,0,0,,İşte bu yüzden \Notuzbiri bırakmaya çalışıyorum.
+Dialogue: 9,0:16:23.30,0:16:27.53,Default,Akemi,0,0,0,,Hâlâ ne konuştuğun hakkında bir fikrim yok.
+Dialogue: 9,0:16:27.53,0:16:30.40,Default,Akemi,0,0,0,,Ama gerçekten otuzbiri bırakmak o kadar etkili mi?
+Dialogue: 9,0:16:30.40,0:16:32.06,Default,Akemi,0,0,0,,Bir saçmalık olmadığından emin misin?
+Dialogue: 9,0:16:32.35,0:16:36.61,Default,Morita,0,0,0,,O zaman şu anki durumuma ne diyorsun?
+Dialogue: 9,0:16:36.61,0:16:38.93,Default,Akemi,0,0,0,,Yahu, ama hâlâ otuzbir çekiyorsun...
+Dialogue: 9,0:16:38.93,0:16:41.06,Default,Morita,0,0,0,,Ama bundan sonra, yavaş yavaş...
+Dialogue: 9,0:16:41.06,0:16:45.28,Default,Morita,0,0,0,,bu arzulardan ne kadar uzak durursam \No kadar çok sonuç alacağım...
+Dialogue: 9,0:16:45.70,0:16:49.21,Default,Morita,0,0,0,,Üç günde bir postadan, dört günde bir postaya...
+Dialogue: 9,0:16:49.21,0:16:52.20,Default,Morita,0,0,0,,Sonra bir haftadan, bir aya...
+Dialogue: 9,0:16:52.97,0:16:55.11,Default,Morita,0,0,0,,Bir ay hayal değil!
+Dialogue: 9,0:16:55.52,0:16:57.38,Default,Morita,0,0,0,,Yeni ben bunu yapabilir!
+Dialogue: 9,0:16:57.38,0:16:58.20,Default,Morita,0,0,0,,Bunu yapabilirim!
+Dialogue: 9,0:16:58.75,0:17:05.93,Main - Top,Morita,0,0,0,,Bunu yapabilirim! Bunu yapabilirim! Bunu yapabilirim!
+Dialogue: 9,0:17:01.26,0:17:04.14,Default,Akemi,0,0,0,,Burada konuşurken kendini \Nhipnoz etmeyi bırakır mısın?
+Dialogue: 9,0:17:04.14,0:17:05.35,Default,Akemi,0,0,0,,Bu beni korkutuyor!
+Dialogue: 9,0:17:05.93,0:17:11.52,Default,Akemi,0,0,0,,Ve? Senin hedefin hiç yapmamak değil miydi?
+Dialogue: 9,0:17:12.25,0:17:13.00,Default,Morita,0,0,0,,Hah?
+Dialogue: 9,0:17:16.40,0:17:19.85,Default,Morita,0,0,0,,İşin sonunu hiç düşünmemiştim...
+Dialogue: 9,0:17:19.85,0:17:22.02,Default,Akemi,0,0,0,,Önce bir hedefin olsun.
+Dialogue: 9,0:17:22.58,0:17:24.75,Default,Morita,0,0,0,,Ama, bilirsin ya...
+Dialogue: 9,0:17:25.29,0:17:26.94,Default,Morita,0,0,0,,Eğer bu işin bir sonu olacaksa...
+Dialogue: 9,0:17:26.94,0:17:29.62,Default,Morita,0,0,0,,herhalde otuzbiri bırakmam sayesinde \Nbir kız arkadaş bulduğum an olur?
+Dialogue: 9,0:17:30.29,0:17:35.02,Default,Akemi,0,0,0,,Bekle, otuzbir çekmediğin için \Nneden bir kız arkadaş bulasın ki?
+Dialogue: 9,0:17:35.02,0:17:38.45,Default,Morita,0,0,0,,Otuzbir çekmeyerek \Nyakışıklı olunmuyor mu?
+Dialogue: 9,0:17:38.45,0:17:41.71,Default,Akemi,0,0,0,,O erotik mangayı bana getir. Onu yakacağım.
+Dialogue: 9,0:17:41.71,0:17:46.61,Default,Morita,0,0,0,,Tüm erotik mangalarım dijitalleştirilmiş, \No yüzden onları yakamazsın.
+Dialogue: 9,0:17:46.61,0:17:50.45,Main - Top,Akemi {background},0,0,0,,O zaman verileri sileceğim, o yüzden bana \Ntelefonunu, dizüstü bilgisayarını ve hesaplarını getir...
+Dialogue: 9,0:17:49.27,0:17:54.43,Main - Italics,Tatsu-ni,0,0,0,,Morita-chan, sadece bırakarak yakışıklı bir adam \Nolamazsın.
+Dialogue: 9,0:17:50.45,0:17:52.79,Main - Top,Morita {background},0,0,0,,Bunların hepsini yapmana ne gerek var?!
+Dialogue: 9,0:17:55.35,0:18:00.73,Main - Italics,Tatsu-ni,0,0,0,,Hatta, otuzbir çekmeyi bırakmana gerek yok, \Narzu zaten yaşlandıkça azalıyor.
+Dialogue: 9,0:18:01.56,0:18:05.24,Default,Akemi,0,0,0,,Tatsu-ni, neden öyle \Ndalgın dalgın gülümsüyorsun?
+Dialogue: 9,0:18:05.54,0:18:09.94,Default,Akemi,0,0,0,,Üstelik, sadece bırakarak yakışıklı \Nbir adam olabilseydin bile,
+Dialogue: 9,0:18:11.30,0:18:13.66,Default,Akemi,0,0,0,,eğer tekrar yapmaya başlayıp \Neski Morita hâline dönseydin,
+Dialogue: 9,0:18:13.66,0:18:15.06,Default,Akemi,0,0,0,,bu korku verici olmaz mıydı?
+Dialogue: 9,0:18:15.06,0:18:17.05,Default,Woman,0,0,0,,Iyy, çok çirkin!
+Dialogue: 9,0:18:17.05,0:18:20.09,Default,Morita,0,0,0,,Korkunç bir görüntüden bahsedecek olursak...
+Dialogue: 9,0:18:20.66,0:18:26.03,Default,Morita,0,0,0,,Ama duydum ki otuzbir çekmemeye devam edersen \Nbütün kadınlar gözüne güzel gözükmeye başlıyormuş...
+Dialogue: 9,0:18:26.03,0:18:30.91,Default,Morita,0,0,0,,Yani sonrasında, herhalde şöyle olurdum: \N"Ha? Şimdi bakınca aslında..."
+Dialogue: 9,0:18:30.91,0:18:32.75,Default,Morita in bed,0,0,0,,Ah, çok çirkin!
+Dialogue: 9,0:18:32.75,0:18:34.01,Default,Morita,0,0,0,,Yani ikimiz de aynı durumda oluruz.
+Dialogue: 9,0:18:34.01,0:18:36.58,Default,Akemi,0,0,0,,O kadar süre kendini tuttuktan sonra \Ngerçekten istediğin şey bu mu?
+Dialogue: 9,0:18:36.94,0:18:40.40,Default,Akemi,0,0,0,,Her şeye rağmen otuzbir çekmeyi bıraksan bile \NMorita yine de Morita'dır.
+Dialogue: 9,0:18:40.40,0:18:43.98,Default,Akemi,0,0,0,,Kendini çok fazla tutarsan hasta olabileceğini \Nduymuştum, o yüzden...
+Dialogue: 9,0:18:43.98,0:18:45.97,Default,Akemi,0,0,0,,boşaldıktan sonra gelen o rahatlığı\Nyaşamak ve...
+Dialogue: 9,0:18:45.97,0:18:48.36,Default,Akemi,0,0,0,,birkaç kez otuzbir çekip \Nrahatlamak daha iyi değil mi?
+Dialogue: 9,0:18:49.60,0:18:52.42,Main - Italics,Tatsu-ni,0,0,0,,Evet, bu doğru. Hiçbir fark yok...
+Dialogue: 9,0:18:52.42,0:18:57.17,Main - Italics,Tatsu-ni,0,0,0,,Üstelik, zaten attığın posta sayısı \Nyaşlandıkça azalmaya başlıyor.
+Dialogue: 9,0:18:57.17,0:19:00.56,Default,Akemi,0,0,0,,Tatsu-ni, neden öyle \Ndalgın dalgın gülümsüyorsun?
+Dialogue: 9,0:19:01.04,0:19:06.55,Default,Akemi,0,0,0,,Peki... eğer otuzbir çekmeyerek öz güven \Nkazanıyorsan o zaman iyi bir şey olduğunu varsayıyorum.
+Dialogue: 9,0:19:08.71,0:19:11.71,Default,Guy not jerking off,0,0,0,,Altı aydır otuzbir çekmiyorum...
+Dialogue: 9,0:19:11.71,0:19:14.09,Default,Guy not jerking off,0,0,0,,Bana göre hepiniz maymunsunuz!
+Dialogue: 9,0:19:14.64,0:19:17.66,Default,Guy not jerking off,0,0,0,,Buradaki tek insan benim!
+Dialogue: 9,0:19:18.25,0:19:19.84,Default,Akemi,0,0,0,,Belki o kadar da değil...
+Dialogue: 9,0:19:20.35,0:19:23.24,Default,Akemi,0,0,0,,Hey, neden farklı bir şey denemiyorsun?
+Dialogue: 9,0:19:23.56,0:19:25.75,Default,Akemi,0,0,0,,Öz güven kazanmak istiyorsan
+Dialogue: 9,0:19:25.75,0:19:28.14,Default,Akemi,0,0,0,,o zaman bakirliğini neden \Nbir orospuyla bozmuyorsun?
+Dialogue: 9,0:19:28.14,0:19:31.42,Default,Morita,0,0,0,,Ama ya bir orospuya gidip \Nbağımlı olursam?
+Dialogue: 9,0:19:31.42,0:19:33.99,Default,Akemi,0,0,0,,Endişelendiğin şey gerçekten bu mu?
+Dialogue: 9,0:19:33.99,0:19:37.54,Default,Morita,0,0,0,,Otuzbiri bırakmamın sebebi \Nbu zaten!
+Dialogue: 9,0:19:38.20,0:19:40.43,Default,Morita,0,0,0,,Otuzbir çekmeye bağımlı olduğunda...
+Dialogue: 9,0:19:41.61,0:19:45.20,Default,Morita,0,0,0,,sadece zamanını ve paranı \Nçöpe atmış oluyorsun!
+Dialogue: 9,0:19:46.98,0:19:49.29,Default,Morita,0,0,0,,İyi bir kaynak bulmak için harcadığın \No saatler...
+Dialogue: 9,0:19:49.29,0:19:53.35,Default,Morita,0,0,0,,Sırf indirimde diye yetişkin videolarına \Nharcadığın o birkaç bin yen!
+Dialogue: 9,0:19:54.01,0:19:57.02,Default,Morita,0,0,0,,Merak ettiğin o oyuncaklara harcadığın \Non binlerce, yüz binlerce yen!
+Dialogue: 9,0:19:57.70,0:20:00.31,Default,Morita,0,0,0,,Duruma göre, \Nbirkaç yüz bin yen bile olabilir!
+Dialogue: 9,0:20:01.31,0:20:05.78,Default,Morita,0,0,0,,Dünyanın çok fazla porno \Nile dolup taştığını düşünmüyor musun?
+Dialogue: 9,0:20:05.78,0:20:08.89,Default,Akemi,0,0,0,,Bir anda eski kafa Okul Aile Birliği \Nüyeleri gibi konuşmaya başladın.
+Dialogue: 9,0:20:09.36,0:20:13.47,Default,Akemi,0,0,0,,Öyle olsa bile, aşırıya kaçmak iyi bir şey değil.
+Dialogue: 9,0:20:13.47,0:20:17.19,Default,Akemi,0,0,0,,Her şey iyi bir denge tutturmakta bitiyor. \NÖnemli olan işte bu.
+Dialogue: 9,0:20:17.19,0:20:19.14,Default,Morita,0,0,0,,Tıpkı Güç gibi.
+Dialogue: 9,0:20:20.19,0:20:23.78,Default,Akemi,0,0,0,,Peki, üç günde bire indirip \Nsözde dengeyi sağladığından beri...
+Dialogue: 9,0:20:23.78,0:20:26.64,Default,Akemi,0,0,0,,zamanın ve paran ne durumda?
+Dialogue: 9,0:20:27.47,0:20:28.88,Default,Morita,0,0,0,,Ee...
+Dialogue: 9,0:20:32.36,0:20:34.88,Default,Morita,0,0,0,,Biraz daha fazla zamanım ve param var!
+Dialogue: 9,0:20:34.88,0:20:36.65,Default,Akemi,0,0,0,,Git doya doya çek o zaman!
+Dialogue: 9,0:20:36.65,0:20:37.98,Default,Morita,0,0,0,,Olur!
+Dialogue: 9,0:20:45.93,0:20:47.96,Default,Morita,0,0,0,,Biraz tuvaleti kullanacağım.
+Dialogue: 9,0:20:47.96,0:20:49.02,Default,Tatsu-ni,0,0,0,,Ne?
+Dialogue: 9,0:20:49.02,0:20:50.95,Default,Morita,0,0,0,,Ne demek 'Ne', hah?
+Dialogue: 9,0:20:59.92,0:21:01.83,Default,Morita,0,0,0,,Hım? N'oldu?
+Dialogue: 9,0:21:03.71,0:21:07.56,Default,Tatsu-ni,0,0,0,,Ah, hayır. Eminim ki \Nolamaz... Ama Morita-chan...
+Dialogue: 9,0:21:09.45,0:21:11.70,Default,Tatsu-ni,0,0,0,,Tuvalette otuzbir çekmedin, değil mi?
+Dialogue: 9,0:21:11.70,0:21:13.23,Default,Morita,0,0,0,,Tabii ki çekmedim!
+Dialogue: 9,0:21:13.23,0:21:15.30,Default,Tatsu-ni,0,0,0,,Ohh, bunu duyduğuma sevindim...
+Dialogue: 9,0:21:15.80,0:21:19.30,Default,Morita,0,0,0,,O kadar da değil, benim de bir sağduyum var sonuçta!
+Dialogue: 9,0:21:20.94,0:21:24.86,Default,Akemi,0,0,0,,Ama tuvalete gidecek sıradaki kişi \Nben olmak istemezdim.
+Dialogue: 9,0:21:24.86,0:21:26.19,Default,Morita,0,0,0,,Neden?!
+Dialogue: 9,0:21:26.19,0:21:29.38,Default,Tatsu-ni,0,0,0,,Biraz zaman geçtikten sonra geçer mi dersin?
+Dialogue: 9,0:21:29.38,0:21:34.31,Default,Akemi,0,0,0,,Evet, bence koku gidene kadar \Nbir şarkı söylemeliyiz.
+Dialogue: 9,0:21:34.31,0:21:35.47,Default,Akemi,0,0,0,,Al bakalım, Morita.
+Dialogue: 9,0:21:35.47,0:21:37.97,Default,Morita,0,0,0,,Söylediğim gibi, otuzbir falan çekmedim!
+Dialogue: 9,0:21:37.97,0:21:40.94,Default,Morita,0,0,0,,Ve şarkı söylemeyeceğimi \Nzaten belirtmemiş miydim?
+Dialogue: 9,0:21:41.36,0:21:46.75,Default,Tatsu-ni,0,0,0,,Ama senin iyi bir şarkıcı\N olduğunu duymuştum. Ben de dinlemek istiyorum.
+Dialogue: 9,0:21:46.75,0:21:50.35,Default,Morita,0,0,0,,Öyle olsa bile... Başka birisinin \Nşarkısını söylemeyeceğim...
+Dialogue: 9,0:21:50.82,0:21:55.12,Default,Tatsu-ni,0,0,0,,Bence karaoke yaparken başka \Nbirilerinin şarkılarını söylemek normal bir şey.
+Dialogue: 9,0:21:56.33,0:22:00.87,Default,Akemi,0,0,0,,Bu sadece Morita'nın söylemek istediği çok \Nfazla şarkı olmadığı anlamına geliyor.
+Dialogue: 9,0:22:00.87,0:22:02.48,Default,Akemi,0,0,0,,Buna ne dersin?
+Dialogue: 9,0:22:03.16,0:22:05.85,Default,Morita,0,0,0,,Hımm... Evet, bunu söyleyebilirim.
+Dialogue: 9,0:22:05.85,0:22:06.92,Default,Akemi,0,0,0,,Tamam!
+Dialogue: 9,0:22:18.03,0:22:19.27,Default,Tatsu-ni,0,0,0,,Oo, bu işi gerçekten ciddiye alıyorsun.
+Dialogue: 9,0:22:20.79,0:22:22.98,Default,Morita,0,0,0,,Sadece düzgün söyleyemediğimde \Nsinirleniyorum.
+Dialogue: 9,0:22:25.20,0:22:31.15,Default,Tatsu-ni,0,0,0,,Bilginiz olsun, 500 mil demek Chitose Havalimanı'ndan \NSendai'ye gitmek gibi bir şey.
+Dialogue: 9,0:22:31.15,0:22:34.50,Default,Akemi,0,0,0,,Aa, şaşırtıcı derecede yakınmış.
+Dialogue: 9,0:22:34.50,0:22:36.71,Default,Morita,0,0,0,,Araya alâkasız bilgiler sıkıştırıp durmasanıza yahu!
+Dialogue: 9,0:22:39.30,0:22:45.31,Default,Morita,0,0,0,,Hırçın rüzgârlar dans ediyor şimdi kalbimde.
+Dialogue: 9,0:22:45.31,0:22:51.51,Default,Morita,0,0,0,,Elveda demek, hayattaki tek hatam mıydı?
+Dialogue: 9,0:22:52.11,0:22:58.09,Default,Morita,0,0,0,,Aramızda 500 mil olsa bile,
+Dialogue: 9,0:22:58.09,0:23:04.89,Default,Morita,0,0,0,,Gece çöktüğünde kalplerimiz \Nyine birbirini arzulayacak.
+Dialogue: 9,0:23:04.89,0:23:10.34,Default,Morita,0,0,0,,Yıldızlı gökyüzünün altındaki o mesafe...
+Dialogue: 9,0:23:11.26,0:23:16.91,Default,Morita,0,0,0,,Alev al! Aşkın direnişi!
+Dialogue: 9,0:23:17.63,0:23:24.07,Default,Morita,0,0,0,,Aramızdaki geceyi aş,
+Dialogue: 9,0:23:24.07,0:23:29.44,Default,Morita,0,0,0,,ve bir kez daha kollarıma atıl!
+Dialogue: 9,0:23:29.44,0:23:31.43,Default,Morita,0,0,0,,Bebeğim, geri dön!
+Dialogue: 9,0:23:35.00,0:23:38.10,Default,Morita,0,0,0,,Birbirimizden uzak olsak bile, ben ve Akemi-chan...
+Dialogue: 9,0:23:38.10,0:23:39.91,Default,Morita,0,0,0,,...yine de birbirimizin kalbine \Nhasret kalacağız işte.
+Dialogue: 9,0:23:39.91,0:23:42.11,Default,Akemi,0,0,0,,Git ve tuvalette tekrar otuzbir çek!
+Dialogue: 9,0:23:42.11,0:23:44.62,Default,Morita,0,0,0,,Sana diyorum, tuvalette \Notuzbir falan çekmedim!
+Dialogue: 9,0:23:44.93,0:23:47.26,Default,Tatsu-ni,0,0,0,,O zaman tam olarak ne zaman ve \Nnerede otuzbir çektin, ha?
+Dialogue: 9,0:23:47.26,0:23:49.04,Default,Morita,0,0,0,,Üç gün önce, kendi evimde.
+Dialogue: 9,0:23:49.04,0:23:51.03,Default,Akemi,0,0,0,,Ah, bugün eve vardığı gibi \Nkesinlikle otuzbir çekecek.
+Dialogue: 0,0:10:28.07,0:10:33.08,sign_15060_154__The_me_who_can_,Caption,0,0,0,,{\pos(129.689,272.556)\fad(521,517)}(Kötü, Çok Kötü Viski)
+Dialogue: 0,0:10:28.07,0:10:33.08,sign_15060_154__The_me_who_can_,Caption,0,0,0,,{\pos(284.355,332.111)\fad(521,517)}(Sarhoş olamayan ben)
+Dialogue: 0,0:22:07.94,0:22:12.86,sign_30226_378_Reserved________,Caption,0,0,0,,{\pos(138.4,154.8)\b1\c&HCCDADF&}Sırada
+Dialogue: 0,0:22:07.94,0:22:12.86,sign_30226_379__While_Listening,Caption,0,0,0,,{\c&HC7D6E5&\3c&H28364A&\fs18\pos(353.4,156.2)}Uzaklardaki Yıldızlı Gökyüzü
+Dialogue: 0,0:22:15.28,0:22:16.36,sign_30226_379__While_Listening,Caption,0,0,0,,{\c&HC7D6E5&\3c&H28364A&\fs18\pos(423,152.2)}Ton Ayarı
+Dialogue: 0,0:22:16.36,0:22:17.74,sign_30226_379__While_Listening,Caption,0,0,0,,{\c&HC7D6E5&\3c&H28364A&\fs18\pos(427,153)}Ton Ayarı
