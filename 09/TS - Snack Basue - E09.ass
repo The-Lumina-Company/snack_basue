@@ -1,0 +1,25 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: sign_15060_154__The_me_who_can_,Verdana,18,&H00AD3B97,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,164,164,15,1
+Style: sign_30226_379__While_Listening,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,215,129,207,1
+Style: sign_30226_378_Reserved________,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,100,428,210,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:10:28.07,0:10:33.08,sign_15060_154__The_me_who_can_,Caption,0,0,0,,{\pos(129.689,272.556)\fad(521,517)}(Kötü, Çok Kötü Viski)
+Dialogue: 0,0:10:28.07,0:10:33.08,sign_15060_154__The_me_who_can_,Caption,0,0,0,,{\pos(284.355,332.111)\fad(521,517)}(Sarhoş olamayan ben)
+Dialogue: 0,0:22:07.94,0:22:12.86,sign_30226_378_Reserved________,Caption,0,0,0,,{\pos(138.4,154.8)\b1\c&HCCDADF&}Sırada
+Dialogue: 0,0:22:07.94,0:22:12.86,sign_30226_379__While_Listening,Caption,0,0,0,,{\c&HC7D6E5&\3c&H28364A&\fs18\pos(353.4,156.2)}Uzaklardaki Yıldızlı Gökyüzü
+Dialogue: 0,0:22:15.28,0:22:16.36,sign_30226_379__While_Listening,Caption,0,0,0,,{\c&HC7D6E5&\3c&H28364A&\fs18\pos(423,152.2)}Ton Ayarı
+Dialogue: 0,0:22:16.36,0:22:17.74,sign_30226_379__While_Listening,Caption,0,0,0,,{\c&HC7D6E5&\3c&H28364A&\fs18\pos(427,153)}Ton Ayarı
