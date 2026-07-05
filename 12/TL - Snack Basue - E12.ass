@@ -1,0 +1,456 @@
+[Script Info]
+Title: The-Lumina-Company - Snack Basue
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,45,1
+Style: Main - Italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,45,1
+Style: Main - Italics - Top,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,8,30,30,45,1
+Style: Main - Top,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,30,30,45,1
+Style: Main - Flashback,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,45,1
+Style: Main - Flashback  Top,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,6,3,8,30,30,45,1
+Style: OP Title Screen 'Snack Basue',Trebuchet MS,60,&H00FFFFFF,&H000000FF,&H00E300E0,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,738,738,45,1
+Style: Eyecatch - Snack Basue,Tahoma,48,&H0053005D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,159,1419,705,1
+Style: OP_ED,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,45,0
+Style: Snack - Episode Title,Verdana,54,&H00AD3B97,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,612,612,45,1
+Style: sign_3789_26__I_ll_become_who,Verdana,54,&H00AD3B97,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,480,480,45,1
+Style: sign_20442_260__Who_do_you_thin,Verdana,54,&H00AD3B97,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,486,516,84,1
+Style: sign_22947_293_Quantum_Fluctuat,Times New Roman,54,&H00CA3D58,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,321,1035,747,1
+Style: sign_30226_378_Reserved________,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,300,1284,630,1
+Style: sign_30226_379__While_Listening,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,645,387,621,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.51,0:00:07.60,Default,Morita,0,0,0,,Eve hoş geldiniz, efendim.
+Dialogue: 0,0:00:07.60,0:00:10.02,Default,Akemi,0,0,0,,Sese baksan bildiğin maid cafe \Ndersin ama...
+Dialogue: 0,0:00:10.02,0:00:13.15,Default,Akemi,0,0,0,,...karşımdaki şu canavara bakınca \Ninsanın resmen ödü kopuyor!
+Dialogue: 0,0:00:13.15,0:00:15.45,Default,Morita,0,0,0,,Ah, Akemi-chan.
+Dialogue: 0,0:00:17.93,0:00:19.97,Default,Morita,0,0,0,,Şey...
+Dialogue: 0,0:00:19.97,0:00:23.01,Default,Akemi,0,0,0,,Bu, arkadaşım Misawa.
+Dialogue: 0,0:00:23.01,0:00:25.01,Default,Akemi,0,0,0,,Beni görmeye geldi.
+Dialogue: 0,0:00:25.01,0:00:26.46,Default,Misawa,0,0,0,,Memnun oldum!
+Dialogue: 0,0:00:28.21,0:00:28.86,Default,Morita,0,0,0,,Selam.
+Dialogue: 0,0:00:28.86,0:00:31.81,Default,Akemi,0,0,0,,Dilini mi yuttun? Az önceki\Nheyecanına ne oldu?
+Dialogue: 0,0:00:32.25,0:00:33.88,Default,Morita,0,0,0,,Şey...
+Dialogue: 0,0:00:33.88,0:00:36.29,Default,Akemi,0,0,0,,Misawa, bu bizim daimi—
+Dialogue: 0,0:00:36.29,0:00:38.60,Default,Misawa,0,0,0,,Ah! Gözlüklerden tanıdım!
+Dialogue: 0,0:00:38.60,0:00:40.12,Default,Misawa,0,0,0,,Sen Yamada-sansın, değil mi?
+Dialogue: 0,0:00:40.12,0:00:41.84,Default,Morita,0,0,0,,Y-Yok... Morita ben...
+Dialogue: 0,0:00:41.84,0:00:43.37,Default,Misawa,0,0,0,,Gel şöyle, Yamada-san!
+Dialogue: 0,0:00:43.37,0:00:45.46,Default,Misawa,0,0,0,,Gel de buraya otur!
+Dialogue: 0,0:00:45.95,0:00:47.10,Default,Morita,0,0,0,,Peki...
+Dialogue: 0,0:00:52.47,0:00:57.31,Default,Akemi,0,0,0,,Ben de tam buraya ne tür müşterilerin\Ngeldiğini anlatıyordum ona.
+Dialogue: 0,0:00:57.31,0:01:00.23,Default,Morita,0,0,0,,Ah, o yüzden biliyor demek.
+Dialogue: 0,0:01:00.87,0:01:03.27,Default,Morita,0,0,0,,O zaman... Ben...
+Dialogue: 0,0:01:04.31,0:01:05.65,Default,Morita,0,0,0,,Yamada'yım.
+Dialogue: 0,0:01:05.65,0:01:06.42,Default,Akemi,0,0,0,,Ne?
+Dialogue: 0,0:01:14.13,0:01:18.99,OP Title Screen 'Snack Basue',Sign,0,0,0,,{\fad(1,200)\pos(597,276)}{\blur12\c&HFFFFFF&\1a&H11&}Snack       Basue
+Dialogue: 0,0:01:18.99,0:01:20.22,OP Title Screen 'Snack Basue',Sign,0,0,0,,{\fad(217,1)\pos(597,276)}{\blur12\c&H5D0060&\1a&H11&\3c&HF5F9F4&}Snack       Basue
+Dialogue: 0,0:02:38.01,0:02:43.01,sign_3789_26__I_ll_become_who,Caption,0,0,0,,{\fad(565,515)\pos(878,996)}(Olmak İstediğim Kişi Olacağım)
+Dialogue: 0,0:02:38.01,0:02:43.01,sign_3789_26__I_ll_become_who,Caption,0,0,0,,{\fad(565,515)\an2\pos(420,826)}Büyük Düzenbaz
+Dialogue: 0,0:02:40.02,0:02:42.78,Main - Top,Misawa,0,0,0,,Yamada-san, memnun oldum.
+Dialogue: 0,0:02:42.78,0:02:44.45,Main - Top,Yamada,0,0,0,,Evet, ben Yamada'yım.
+Dialogue: 0,0:02:44.45,0:02:45.97,Default,Yamada,0,0,0,,Sizinle tanıştığıma çok memnun oldum.
+Dialogue: 0,0:02:48.31,0:02:52.24,Main - Italics,Morita,0,0,0,,Bana resmen "Morita, ne diye yalan\Nsöylüyorsun?" der gibi bakıyor.
+Dialogue: 0,0:02:52.24,0:02:54.82,Main - Italics,Morita,0,0,0,,Ama biliyorsun işte, bu aslında çok basit.
+Dialogue: 0,0:02:54.82,0:02:57.85,Main - Italics,Morita,0,0,0,,Özetleyecek olursam,\Nbir yanda çok ciddi Yama-chan var.
+Dialogue: 0,0:02:57.85,0:02:59.86,Main - Italics,Morita,0,0,0,,Diğer yanda da ben varım, ezik bir bakir.
+Dialogue: 0,0:02:59.86,0:03:03.76,Main - Italics,Morita,0,0,0,,Onun beni Yama-chan sanmasını istiyorum!
+Dialogue: 0,0:03:03.76,0:03:06.24,Main - Italics,Morita,0,0,0,,Olmak istediğim kişi olacağım ulan!
+Dialogue: 0,0:03:06.24,0:03:07.36,Default,Misawa,0,0,0,,Yamada-san.
+Dialogue: 0,0:03:07.36,0:03:08.80,Default,Morita,0,0,0,,Evet, ben Yamada'yım.
+Dialogue: 0,0:03:08.80,0:03:11.45,Default,Misawa,0,0,0,,Alkolle aranız nasıldır, Yamada-san?
+Dialogue: 0,0:03:11.45,0:03:14.59,Default,Morita,0,0,0,,Evet, Yamada'nın alkolle arası\Niyidir diye düşünüyorum.
+Dialogue: 0,0:03:14.59,0:03:16.87,Main - Italics,Akemi,0,0,0,,Hm? Eğer böyle devam ederse...
+Dialogue: 0,0:03:17.21,0:03:18.94,Main - Italics,Akemi,0,0,0,,Eğlenceli olacak gibi,\Nben de oyuna katılayım bari!
+Dialogue: 0,0:03:19.37,0:03:23.21,Default,Akemi,0,0,0,,Tamam Yamada, sana her zamankinden\Nvereceğim, viskiyle karıştırılmış bir şoçu!
+Dialogue: 0,0:03:23.21,0:03:23.71,Default,Morita,0,0,0,,Ne?
+Dialogue: 0,0:03:24.09,0:03:27.60,Default,Morita,0,0,0,,Akemi-chan, viskili şoçu biraz...
+Dialogue: 0,0:03:27.60,0:03:30.14,Default,Misawa,0,0,0,,Az önce Akemi'den duydum.
+Dialogue: 0,0:03:30.14,0:03:34.68,Default,Misawa,0,0,0,,Yamada-san, siz demir bilye yutup geri\N tükürmekte bayağı iyiymişsiniz, değil mi?
+Dialogue: 0,0:03:34.68,0:03:36.84,Default,Morita,0,0,0,,Evet, Yamada bu işte çok iyidir.
+Dialogue: 0,0:03:38.40,0:03:42.15,Main - Italics,Morita,0,0,0,,Ne? Yama-chan demir bilye\N yutmakta iyi miymiş?
+Dialogue: 0,0:03:42.15,0:03:45.45,Default,Misawa,0,0,0,,Vay canına! Bunu görmek istiyorum!
+Dialogue: 0,0:03:45.45,0:03:51.39,Main - Italics,Morita,0,0,0,,İyi olsa bile, yeni tanıştığın birinden de\N böyle bir numara yapmasını istemezsin be.
+Dialogue: 0,0:03:51.39,0:03:53.08,Main - Italics,Morita,0,0,0,,Özellikle de demir bilye yutmak gibi bir numara!
+Dialogue: 0,0:03:53.08,0:03:54.83,Default,Akemi,0,0,0,,Kes şunu, Misawa!
+Dialogue: 0,0:03:54.83,0:03:59.44,Default,Akemi,0,0,0,,Yamada-san'ın demir bilye yutmakta iyi\N olduğuna dair bir şey söylemedim ki.
+Dialogue: 0,0:03:59.44,0:04:01.77,Default,Misawa,0,0,0,,Ha? Söylemedin mi?
+Dialogue: 0,0:04:01.77,0:04:04.01,Default,Akemi,0,0,0,,O kadar azimlidir ki, eğer çalışırsa...
+Dialogue: 0,0:04:04.02,0:04:07.13,Default,Akemi,0,0,0,,...üç güne kalmaz bunu bile becerir dedim.
+Dialogue: 0,0:04:07.13,0:04:08.64,Main - Italics,Morita,0,0,0,,Bu ne biçim bir konuşma böyle?!
+Dialogue: 0,0:04:08.64,0:04:12.77,Default,Misawa,0,0,0,,Ama Yamada-san az önce\N bu konuda iyi olduğunu söyledi.
+Dialogue: 0,0:04:12.77,0:04:14.75,Default,Morita,0,0,0,,Ç-çok üzgünüm ama...
+Dialogue: 0,0:04:15.55,0:04:18.83,Default,Morita,0,0,0,,Aslına bakarsanız, ben Yamada değilim.
+Dialogue: 0,0:04:19.24,0:04:19.93,Default,Misawa,0,0,0,,Ne?
+Dialogue: 0,0:04:20.39,0:04:21.89,Default,Morita,0,0,0,,Çok affedersiniz.
+Dialogue: 0,0:04:22.36,0:04:28.85,Default,Misawa,0,0,0,,Ne? O zaman... Sen bahsettiği\N komik yaşlı adam Tatsu-ni misin?!
+Dialogue: 0,0:04:30.20,0:04:31.12,Default,Morita,0,0,0,,Evet, öyleyim!
+Dialogue: 0,0:04:31.12,0:04:32.97,Default,Akemi,0,0,0,,Neden yalan söylüyorsun?!
+Dialogue: 0,0:04:33.29,0:04:35.98,Default,Misawa,0,0,0,,Ne, bu da mı yalan?
+Dialogue: 0,0:04:35.98,0:04:39.20,Default,Morita,0,0,0,,Yalan olup olmadığı... size kalmış.
+Dialogue: 0,0:04:39.20,0:04:41.37,Default,Akemi,0,0,0,,Bunlar tam da bir yalancının kullanacağı sözler!
+Dialogue: 0,0:04:41.80,0:04:46.25,Default,Misawa,0,0,0,,Şey, o zaman... kimsin sen?
+Dialogue: 0,0:04:46.25,0:04:47.31,Default,Morita,0,0,0,,Ben Yamada'yım.
+Dialogue: 0,0:04:47.31,0:04:49.89,Default,Akemi,0,0,0,,Yine mi aynı konuya döndük?
+Dialogue: 0,0:04:49.89,0:04:54.26,Default,Akemi,0,0,0,,Eğer hâlâ Yamada olduğunda ısrar ediyorsan,\N o zaman demir bilye yut da görelim!
+Dialogue: 0,0:04:54.26,0:04:55.79,Default,Morita,0,0,0,,Bunu yapamam.
+Dialogue: 0,0:04:55.79,0:04:59.22,Default,Morita,0,0,0,,Çünkü ben hem Yamada'yım\N hem de Yamada değilim.
+Dialogue: 0,0:04:59.22,0:05:00.48,Default,Akemi,0,0,0,,Ha?!
+Dialogue: 0,0:05:00.48,0:05:06.40,Default,Morita,0,0,0,,Ben, Yamada'nın bedeninde yaşayan başka bir varlık... Gomura'yım!
+Dialogue: 0,0:05:06.40,0:05:10.70,Main - Italics,Akemi,0,0,0,,Gerçeklerden kaçmak için yeni\N bir kişilik uydurdu.
+Dialogue: 0,0:05:10.70,0:05:12.44,Default,Morita,0,0,0,,Şey...
+Dialogue: 0,0:05:12.98,0:05:16.12,Default,Morita,0,0,0,,Şimdi özür dilersem yine\N de affedilebilir miyim?
+Dialogue: 0,0:05:16.42,0:05:19.44,Default,Akemi,0,0,0,,Nihayet aklın başına geldi ve...
+Dialogue: 0,0:05:19.44,0:05:21.38,Default,Akemi,0,0,0,,...gerçekliğin ötesinde olmadığını anladın.
+Dialogue: 0,0:05:21.38,0:05:24.99,Default,Morita,0,0,0,,Ama bence asıl suçlanması\N gereken sensin, Akemi-chan!
+Dialogue: 0,0:05:24.99,0:05:27.90,Default,Morita,0,0,0,,Arkamızdan dedikodu yapan kişi sensin!
+Dialogue: 0,0:05:27.90,0:05:31.31,Default,Akemi,0,0,0,,Buna dedikodu diyemezsin!
+Dialogue: 0,0:05:31.31,0:05:36.04,Default,Akemi,0,0,0,,Sizin hakkınızda sadece iyi şeyler söyledim!
+Dialogue: 0,0:05:36.04,0:05:37.27,Default,Morita,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:05:37.27,0:05:41.36,Default,Akemi,0,0,0,,Sizi o kadar çok övdüm ki...
+Dialogue: 0,0:05:41.36,0:05:45.43,Default,Akemi,0,0,0,,Misawa, sadece anlattıklarımla bile\N Yamada'ya abayı yakmaya başladı.
+Dialogue: 0,0:05:45.93,0:05:48.25,Default,Morita,0,0,0,,Anlaşılan yalan söylemekte\N benden çok daha iyisin.
+Dialogue: 0,0:05:49.20,0:05:52.09,Default,Morita,0,0,0,,O zaman Yamada olmak\N benim için sorun değil!
+Dialogue: 0,0:05:52.09,0:05:53.41,Default,Akemi,0,0,0,,Sen Gomura'sın, değil mi?
+Dialogue: 0,0:05:53.41,0:05:59.48,Default,Morita,0,0,0,,Eğer sadece bizden övgüyle bahsetseydin, o zaman kızı kandırmama gerek kalmazdı.
+Dialogue: 0,0:06:00.15,0:06:05.05,Default,Akemi,0,0,0,,Ben söylemesem bile, sen zaten çirkin yüzünü ortaya çıkarmak için yeterince konuştun.
+Dialogue: 0,0:06:05.73,0:06:12.54,Default,Morita,0,0,0,,Misawa-san, sanırım artık hangi müşterinin ben olduğumu anlaşmışsınızdır, değil mi?
+Dialogue: 0,0:06:13.00,0:06:14.57,Default,Misawa,0,0,0,,Oh, kim olduğunu biliyorum!
+Dialogue: 0,0:06:14.57,0:06:15.31,Default,Morita,0,0,0,,Evet.
+Dialogue: 0,0:06:15.64,0:06:17.50,Default,Misawa,0,0,0,,Yönetmen Makoto Shinkai!
+Dialogue: 0,0:06:17.50,0:06:19.81,Default,Morita,0,0,0,,Onun buraya daha önce adımını\N bile atmadığından eminim!
+Dialogue: 0,0:06:19.81,0:06:23.70,Default,Morita,0,0,0,,Bunu benim söylemem biraz garip\N kaçacak ama siz de bayağı tuhafsınız!
+Dialogue: 0,0:06:23.70,0:06:24.91,Default,Misawa,0,0,0,,Ne?
+Dialogue: 0,0:06:25.47,0:06:28.66,Default,Morita,0,0,0,,Ama tuhafların yanında pek gerilmiyorum, o yüzden bana epey yardımcı oluyorsunuz!
+Dialogue: 0,0:06:29.63,0:06:31.57,Default,Misawa,0,0,0,,Rica ederim?
+Dialogue: 0,0:06:32.25,0:06:37.01,Default,Morita,0,0,0,,Şey, Akemi-chan benim hakkımda ne\N anlattı bilmiyorum ama...
+Dialogue: 0,0:06:37.01,0:06:38.40,Default,Morita,0,0,0,,Ben Morita!
+Dialogue: 0,0:06:38.40,0:06:40.04,Default,Morita,0,0,0,,Tekrardan tanıştığımıza memnun oldum.
+Dialogue: 0,0:06:43.77,0:06:45.71,Default,Misawa,0,0,0,,Morita mı...
+Dialogue: 0,0:06:47.06,0:06:48.03,Default,Misawa,0,0,0,,O da kim?!
+Dialogue: 0,0:06:48.03,0:06:48.88,Default,Morita,0,0,0,,Ha?
+Dialogue: 0,0:06:48.88,0:06:50.67,Default,Morita,0,0,0,,B-Bekle, bekle, bekle!
+Dialogue: 0,0:06:50.67,0:06:52.32,Default,Morita,0,0,0,,Ne demek o da kim?!
+Dialogue: 0,0:06:52.32,0:06:54.84,Default,Morita,0,0,0,,Varlığım o kadar büyük ki,\Narananlar listesinde olsam...
+Dialogue: 0,0:06:54.84,0:06:56.54,Default,Morita,0,0,0,,İlk gün şak diye yakalanacak tiplerdenim!
+Dialogue: 0,0:06:56.54,0:06:57.34,Default,Morita,0,0,0,,Değil mi?!
+Dialogue: 0,0:07:03.07,0:07:05.22,Default,Morita,0,0,0,,Ş-Şey...
+Dialogue: 0,0:07:06.50,0:07:11.50,Main - Italics,Morita,0,0,0,,Eğer kimse hakkında kötü konuşmamışsa\N ve sadece iyi şeyler söylemişse...
+Dialogue: 0,0:07:11.95,0:07:16.65,Main - Italics,Morita,0,0,0,,...benim hakkımda söyleyebileceği\Nhiçbir şey yoktu demektir.
+Dialogue: 0,0:07:17.11,0:07:18.44,Main - Italics,Morita,0,0,0,,Düşündüğüm gibi mi?
+Dialogue: 0,0:07:23.04,0:07:28.05,Snack - Episode Title,Caption,0,0,0,,{\fad(565,515)\pos(840,996.667)}(Anlaşılması Zor)
+Dialogue: 0,0:07:23.04,0:07:28.05,Snack - Episode Title,Caption,0,0,0,,{\fad(565,515)\an2\pos(420,826)}Beni Dünyana Al
+Dialogue: 0,0:07:27.00,0:07:28.80,Main - Top,Akemi,0,0,0,,Hey, Yamada!
+Dialogue: 0,0:07:28.80,0:07:31.56,Default,Akemi,0,0,0,,Anlatacak ilginç bir hikayen yok mu?
+Dialogue: 0,0:07:31.99,0:07:34.37,Default,Yamada,0,0,0,,İlginç hikayeler, demek...
+Dialogue: 0,0:07:34.37,0:07:39.50,Default,Basue,0,0,0,,Size geçen gün aldığım\N makaronlardan bahsetsem nasıl olur?
+Dialogue: 0,0:07:39.50,0:07:40.35,Default,Akemi,0,0,0,,İstemez.
+Dialogue: 0,0:07:41.01,0:07:44.19,Default,Akemi,0,0,0,,Mesela, son zamanlarda\N bir şey aldın mı?
+Dialogue: 0,0:07:44.19,0:07:46.67,Default,Yamada,0,0,0,,Ah, bir şey satın aldım.
+Dialogue: 0,0:07:46.67,0:07:47.96,Default,Akemi,0,0,0,,Ne? Ne aldın?
+Dialogue: 0,0:07:48.36,0:07:52.49,Default,Yamada,0,0,0,,{\an8\pos(960,27)}{\fs60}Ç.N: Yiyeceklerin vakumlu poşetler içinde, hassas ve düşük\N sıcaklıkta uzun sürede pişirilmesini sağlayan cihazdır.
+Dialogue: 0,0:07:48.36,0:07:50.22,Default,Yamada,0,0,0,,Bir sous vide pişirici.
+Dialogue: 0,0:07:50.22,0:07:52.49,Default,Tatsu-ni,0,0,0,,Ne? Sous vide pişirici mi?
+Dialogue: 0,0:07:52.49,0:07:53.80,Default,Yamada,0,0,0,,Bilmiyor musun?
+Dialogue: 0,0:07:53.80,0:07:56.37,Default,Yamada,0,0,0,,Düşük ısıda, yavaş yavaş pişiriyor.
+Dialogue: 0,0:07:56.81,0:07:58.06,Default,Tatsu-ni,0,0,0,,Haa, şu alet...
+Dialogue: 0,0:07:58.79,0:08:00.50,Default,Tatsu-ni,0,0,0,,Aynısından ben de aldım!
+Dialogue: 0,0:08:00.50,0:08:01.79,Default,Yamada,0,0,0,,Sahiden mi?
+Dialogue: 0,0:08:02.21,0:08:04.82,Default,Tatsu-ni,0,0,0,,Çok iyi alet değil mi ama?\N Şu sous vide pişirici.
+Dialogue: 0,0:08:04.82,0:08:07.66,Default,Yamada,0,0,0,,Kesinlikle öyle.\NTam bir harika.
+Dialogue: 0,0:08:07.66,0:08:09.33,Default,Tatsu-ni,0,0,0,,Ah, Morita-chan!
+Dialogue: 0,0:08:09.33,0:08:11.44,Default,Morita,0,0,0,,Birisi sous vide pişirici mi dedi?
+Dialogue: 0,0:08:11.44,0:08:12.22,Default,Tatsu-ni,0,0,0,,Evet.
+Dialogue: 0,0:08:13.13,0:08:15.12,Default,Morita,0,0,0,,Ben de bir tane aldım!
+Dialogue: 0,0:08:15.12,0:08:17.06,Default,Yamada and Tatsu-ni,0,0,0,,Ne tesadüf!
+Dialogue: 0,0:08:18.63,0:08:22.77,Default,Akemi,0,0,0,,Hey... Neden herkes sous vide pişirici alıyor?
+Dialogue: 0,0:08:22.77,0:08:26.61,Default,Akemi,0,0,0,,Hiç de evde yemek yapacak\Ntiplere benzemiyorsunuz...
+Dialogue: 0,0:08:26.61,0:08:29.47,Default,Akemi,0,0,0,,Üstelik Morita, sen ailenle yaşıyorsun.
+Dialogue: 0,0:08:29.47,0:08:30.34,Default,Morita,0,0,0,,Eee...
+Dialogue: 0,0:08:31.24,0:08:34.41,Default,Akemi,0,0,0,,Ne? Bütün erkeklerin bunu\Nsatın alma sebebi...
+Dialogue: 0,0:08:35.20,0:08:37.21,Default,Akemi,0,0,0,,Niyetiniz o şeyi yapmak mı?!
+Dialogue: 0,0:08:37.21,0:08:39.16,Default,Morita,0,0,0,,Ben aile evinde yaşıyorum be!
+Dialogue: 0,0:08:39.16,0:08:41.37,Default,Akemi,0,0,0,,Ne yani, haksız mıyım?
+Dialogue: 0,0:08:41.37,0:08:45.09,Default,Tatsu-ni,0,0,0,,Şey, yakın değilsin ama\Nuzak da değilsin.
+Dialogue: 0,0:08:45.09,0:08:45.89,Default,Morita,0,0,0,,Ne?
+Dialogue: 0,0:08:45.89,0:08:46.85,Default,Tatsu-ni,0,0,0,,Ne?
+Dialogue: 0,0:08:46.85,0:08:47.65,Default,Tatsu-ni,0,0,0,,Ne?!
+Dialogue: 0,0:08:47.65,0:08:48.36,Default,Yamada,0,0,0,,Ne?!
+Dialogue: 0,0:08:48.36,0:08:50.74,Default,Akemi,0,0,0,,Aralarındaki dayanışma bir anda yok oldu.
+Dialogue: 0,0:08:52.38,0:08:55.36,Default,Tatsu-ni,0,0,0,,Hayır, demek istediğim şey şuydu...
+Dialogue: 0,0:08:55.36,0:08:58.27,Default,Tatsu-ni,0,0,0,,Evde yemek yapmak denince...
+Dialogue: 0,0:08:58.27,0:09:02.50,Default,Tatsu-ni,0,0,0,,...insanların aklına genelde para\Nbiriktirmek ya da sağlıklı beslenmek gelir.
+Dialogue: 0,0:09:02.50,0:09:05.50,Default,Tatsu-ni,0,0,0,,Ama bizim bu aletle yaptığımız şey\Nyemek pişirmekten ziyade,
+Dialogue: 0,0:09:05.50,0:09:08.63,Default,Tatsu-ni,0,0,0,,...çocukların şu eğitici deney\Nsetleriyle oynamasına benziyor.
+Dialogue: 0,0:09:08.63,0:09:11.49,Default,Witch,0,0,0,,Ne kadar çok uyursan, o kadar çok...
+Dialogue: 0,0:09:11.49,0:09:13.52,Default,Brat,0,0,0,,...dinlenmiş hissedersin!
+Dialogue: 0,0:09:13.52,0:09:14.51,Default,Akemi,0,0,0,,Eğitici mi?!
+Dialogue: 0,0:09:15.03,0:09:18.42,Default,Tatsu-ni,0,0,0,,Hmm, nasıl desem ki?
+Dialogue: 0,0:09:18.42,0:09:21.39,Default,Morita,0,0,0,,Karnın aç olduğu için yapmazsın da...
+Dialogue: 0,0:09:21.39,0:09:23.96,Default,Yamada,0,0,0,,Sadece... şu aleti bir denemek istersin.
+Dialogue: 0,0:09:23.96,0:09:27.92,Default,Basue,0,0,0,,Birbirinizi o kadar iyi anlıyorsunuz ki bir\Nan füzyon robotu pilotları falan sandım sizi!
+Dialogue: 0,0:09:27.92,0:09:30.69,Default,Yamada; Tatsu-ni; and Morita,0,0,0,,Füzyon robotu pilotluğu sandığın kadar basit değil!
+Dialogue: 0,0:09:30.69,0:09:32.81,Default,Basue,0,0,0,,Tamamdır!
+Dialogue: 0,0:09:33.58,0:09:38.17,Default,Yamada,0,0,0,,Genel olarak erkekler, teknolojik\Nbir hissiyat taşıyan araçları severler.
+Dialogue: 0,0:09:39.40,0:09:41.28,Default,Akemi,0,0,0,,Elektrikli arabalar gibi mi?
+Dialogue: 0,0:09:41.28,0:09:43.73,Default,Yamada,0,0,0,,Konu oralara gelince durum\Nbiraz daha ciddileşir tabii.
+Dialogue: 0,0:09:43.73,0:09:47.17,Default,Yamada,0,0,0,, Menzili ne kadar, büyük bir arıza çıkarır mı falan diye tek tek bakarım ama...
+Dialogue: 0,0:09:47.17,0:09:49.71,Default,Basue,0,0,0,,Gerçekten de ciddiymiş..
+Dialogue: 0,0:09:50.06,0:09:52.88,Default,Yamada,0,0,0,,Örnek verecek olursam, daha çok\Nelektrikli el aletleri gibi şeyler.
+Dialogue: 0,0:09:52.88,0:09:54.06,Default,Morita,0,0,0,,Evet.
+Dialogue: 0,0:09:54.06,0:09:57.52,Default,Tatsu-ni,0,0,0,,Nereye koyacağını bile düşünmeden\No aletle raf falan yapmak istersin.
+Dialogue: 0,0:09:57.52,0:10:00.21,Default,Akemi,0,0,0,,Sırf o rafı koymak için bile ayrı bir\Nraf yapacak gibi duruyorsun.
+Dialogue: 0,0:10:00.21,0:10:04.89,Default,Morita,0,0,0,,Basınçlı yıkayıcılar ve\Nbuharlı temizleyiciler de çok fena.
+Dialogue: 0,0:10:04.89,0:10:06.06,Default,Yamada and Tatsu-ni,0,0,0,,Çok fena!
+Dialogue: 0,0:10:06.06,0:10:09.04,Default,Tatsu-ni,0,0,0,,Sanki kıyafetlerimi yıkamak için bilerek\Nkirletiyormuşum gibi hissediyorum!
+Dialogue: 0,0:10:09.04,0:10:11.59,Default,Yamada,0,0,0,,Evet, tıpkı şu alışveriş\Nkanallarında yaptıkları gibi.
+Dialogue: 0,0:10:12.30,0:10:14.56,Default,Seller,0,0,0,,İşte böyle bir durumda, bu\Ncanavar işinizi görecektir!
+Dialogue: 0,0:10:14.56,0:10:16.97,Default,Tatsu-ni and Morita,0,0,0,,Tıpkı onların yaptığı gibi!
+Dialogue: 0,0:10:16.97,0:10:19.92,Default,Tatsu-ni,0,0,0,,Hey, peki akıllı prizlere ne diyorsunuz?
+Dialogue: 0,0:10:19.92,0:10:21.57,Default,Yamada,0,0,0,,Ooo, bilmez miyim!
+Dialogue: 0,0:10:21.57,0:10:24.28,Default,Morita,0,0,0,,Şu programlarda görünce\Ninsanın illa alası geliyor!
+Dialogue: 0,0:10:24.28,0:10:25.42,Default,Tatsu-ni,0,0,0,,Oh, evet. Katılıyorum sana.
+Dialogue: 0,0:10:25.42,0:10:26.57,Default,Yamada,0,0,0,,Doğru.
+Dialogue: 0,0:10:26.57,0:10:28.08,Default,Morita,0,0,0,,Aynen, aynen.
+Dialogue: 0,0:10:28.08,0:10:30.73,Default,Akemi,0,0,0,,Siz çocuklar,\Nbunları düşünürken...
+Dialogue: 0,0:10:31.37,0:10:32.64,Default,Akemi,0,0,0,,Tahrik falan\Nmı oluyorsunuz?
+Dialogue: 0,0:10:32.64,0:10:34.98,Default,Yamada,0,0,0,,Sen bir erkeğin kalbinden\Nhiç anlayamazsın...
+Dialogue: 0,0:10:35.61,0:10:41.54,Default,Akemi,0,0,0,,Lafa gelince teknolojinin erkek\Nişi olduğunu söylüyorsunuz ama...
+Dialogue: 0,0:10:41.54,0:10:44.59,Default,Akemi,0,0,0,,Ben de son çıkan ev\Naletlerine bayılıyorum bir kere!
+Dialogue: 0,0:10:47.31,0:10:49.13,Default,Akemi,0,0,0,,Ha... Ne?
+Dialogue: 0,0:10:49.13,0:10:53.01,Default,Yamada,0,0,0,,Senin bakış açın erkeklerinkinden\Nbiraz daha farklı, Akemi-san.
+Dialogue: 0,0:10:53.01,0:10:55.71,Default,Yamada,0,0,0,,Nasıl desem? Seninki daha çok\Nkolaylık sağladığı için istemek gibi.
+Dialogue: 0,0:10:55.71,0:10:58.67,Default,Akemi,0,0,0,,Bunda ne var ki?!\NBeni ürkütüyorsunuz.
+Dialogue: 0,0:10:59.95,0:11:03.32,Default,Akemi,0,0,0,,Yamada'nın bana bu şekilde laf\Nyetiştireceği hiç aklıma gelmezdi.
+Dialogue: 0,0:11:03.32,0:11:05.29,Default,Akemi,0,0,0,,Bu adamlarla fazla takılmamalısın.
+Dialogue: 0,0:11:05.29,0:11:06.65,Default,Akemi,0,0,0,,Seni kötü etkiliyorlar!
+Dialogue: 0,0:11:06.65,0:11:11.02,Default,Basue,0,0,0,,Akemi-chan, o bahsettiğin insanlar\Nbizim müşterilerimiz, biliyorsun değil mi?
+Dialogue: 0,0:11:11.02,0:11:12.97,Default,Akemi,0,0,0,,O zaman berbat müşterilerimiz var demektir.
+Dialogue: 0,0:11:12.97,0:11:15.97,Default,Tatsu-ni,0,0,0,,Bence berbat müşterlerin olması\Ndoğrudan dükkanın suçudur.
+Dialogue: 0,0:11:15.97,0:11:19.17,Default,Basue,0,0,0,,Yüzüme vurduğun bu acı \Ngerçek için sana minnettarım!
+Dialogue: 0,0:11:19.17,0:11:20.32,Default,Morita,0,0,0,,Ama biliyorsunuz...
+Dialogue: 0,0:11:20.68,0:11:22.98,Default,Morita,0,0,0,,...kadınlar bir tava alırken bile,
+Dialogue: 0,0:11:22.98,0:11:26.51,Default,Morita,0,0,0,,...açıkçası sadece kolay\Ntemizlenip temizlenmediğine bakar.
+Dialogue: 0,0:11:26.51,0:11:28.68,Default,Mob woman,0,0,0,,Bu gerçekten çok kullanışlı!
+Dialogue: 0,0:11:28.68,0:11:32.94,Default,Morita,0,0,0,,Erkekler ise daha çok, o tavanın hangi\Nkaplama teknolojisiyle üretildiğiyle ilgilenir.
+Dialogue: 0,0:11:32.94,0:11:36.28,Default,Mob man,0,0,0,,Bu kaplama, kayıp orihalcon\Nişleme teknolojisiyle yapılmış!
+Dialogue: 0,0:11:36.28,0:11:41.55,Default,Akemi,0,0,0,,Doğru, erkeklerin neden bu özel yöntemlere bu\Nkadar takıntılı olduğunu artık anlıyorum.
+Dialogue: 0,0:11:41.93,0:11:47.96,Default,Akemi,0,0,0,,Ha? Ama erkekler kamp ekipmanlarını \Nve ilkel şeyleri de çok seviyor, değil mi?
+Dialogue: 0,0:11:47.96,0:11:50.04,Default,Camper,0,0,0,,Ne güzel pişirmişim be!
+Dialogue: 0,0:11:50.04,0:11:51.29,Default,Akemi,0,0,0,,Bir de şu kamp ateşleri falan var...
+Dialogue: 0,0:11:51.60,0:11:55.71,Default,Akemi,0,0,0,,Bu durum, az önce teknolojiyi sevdiğinize \Ndair söylediğiniz şeyle çelişmiyor mu?
+Dialogue: 0,0:11:57.67,0:12:00.37,Default,Yamada,0,0,0,,Teknoloji, sadece yüksek\Nteknolojiden ibaret değildir.
+Dialogue: 0,0:12:00.37,0:12:03.55,Default,Yamada,0,0,0,,Düşük teknolojili şeylerin de\Nkendilerine has bir çekiciliği vardır.
+Dialogue: 0,0:12:03.55,0:12:06.30,Default,Akemi,0,0,0,,Olgun kadınlardan hoşlandığını \Nsöyleyen ünlü birinin, gidip...
+Dialogue: 0,0:12:06.30,0:12:07.69,Default,Akemi,0,0,0,,...kendinden çok genç biriyle evlenmesi gibi!
+Dialogue: 0,0:12:08.24,0:12:13.30,Default,Tatsu-ni,0,0,0,,Erkeklerin... Çaresizce verimli şeylerin peşinde \Nkoşan böyle hüzünlü bir yanı vardır.
+Dialogue: 0,0:12:13.30,0:12:17.65,Default,Tatsu-ni,0,0,0,,Ancak, hayattaki o boşa harcanan \Nzamanın da tadını çıkarmak gereklidir.
+Dialogue: 0,0:12:17.65,0:12:22.11,Default,Tatsu-ni,0,0,0,,Bence bu yüzden zamanı verimli şekilde \Nharcamamızı sağlayan aletlerden keyif alıyoruz.
+Dialogue: 0,0:12:22.81,0:12:25.98,Default,Tatsu-ni,0,0,0,,Tıpkı düzgün bir spor alışkanlığın \Nolmadığı halde...
+Dialogue: 0,0:12:26.71,0:12:29.66,Default,Tatsu-ni,0,0,0,,...akıllı saatten sağlık verilerini \Nkontrol edip durman gibi bir şey bu.
+Dialogue: 0,0:12:28.35,0:12:29.45,Default,Caption,0,0,0,,{\b1\fs42\frz314.8\pos(900,765)\c&HE2DBFF&\3c&H3F33EA&}{\blur6}Ölüm
+Dialogue: 0,0:12:29.45,0:12:34.60,Default,Caption,0,0,0,,{\b1\fs42\frz314.8\c&HE2DBFF&\3c&H3F33EA&\move(900,765,888,666,7,237)}{\blur6}Ölüm
+Dialogue: 0,0:12:29.66,0:12:32.13,Default,Man,0,0,0,,Dostum, sağlık durumum bayağı kötü görünüyor!
+Dialogue: 0,0:12:32.13,0:12:34.27,Default,Akemi,0,0,0,,Siz erkeklerin bu aleti kullanmayı \Nbilmediğine emin misiniz?
+Dialogue: 0,0:12:34.91,0:12:36.76,Default,Akemi,0,0,0,,Hiç anlamıyorum.
+Dialogue: 0,0:12:36.76,0:12:40.58,Default,Basue,0,0,0,,Şey gibi galiba... Yaşlı bir adamın \Nzamanı verimli bir şekilde öldürmek için
+Dialogue: 0,0:12:40.58,0:12:44.98,Default,Basue,0,0,0,,...neden evde soba eriştesi dövmeye \Nbaşlayacağıyla aynı mantık.
+Dialogue: 0,0:12:47.57,0:12:49.96,Default,Tatsu-ni,0,0,0,,İşte bu! Canım acayip erişte dövmek istedi!
+Dialogue: 0,0:12:49.96,0:12:52.58,Default,Akemi,0,0,0,,Daha önce hiç soba eriştesi \Ndövmedin mi yani, Tatsu-ni?
+Dialogue: 0,0:12:52.58,0:12:57.36,Default,Basue,0,0,0,,Bu arada, herkes şu sous vide\Npişiriciyle ne yapıyor?
+Dialogue: 0,0:12:57.36,0:13:01.76,Default,Yamada,0,0,0,,Bir bakalım... Ben çoğunlukla biftek \Nve o tarz şeyler yapıyorum.
+Dialogue: 0,0:13:01.76,0:13:03.76,Default,Akemi,0,0,0,,Ne? Dışarıdan hazır alınca \Ndaha lezzetli olmuyor mu zaten?
+Dialogue: 0,0:13:03.76,0:13:05.86,Default,Yamada; Tatsu-ni; and Morita,0,0,0,,Bahsettiğimiz şey bu değil!
+Dialogue: 0,0:13:05.86,0:13:10.60,Default,Akemi,0,0,0,,Sırf bifteği o kadar çok seviyorsunuz diye mi \Nbu kadar alet edevat kullanıyorsunuz yani?
+Dialogue: 0,0:13:10.91,0:13:13.00,Default,Yamada; Tatsu-ni; and Morita,0,0,0,,Sana öyle değil diyoruz ya!
+Dialogue: 0,0:13:13.00,0:13:17.22,Default,Yamada; Tatsu-ni; and Morita,0,0,0,,Bizim asıl sevdiğimiz şey, bifteği\Npişirmek için kullanılan o mutfak aletleri!
+Dialogue: 0,0:13:17.22,0:13:18.60,Default,Akemi,0,0,0,,Ah, hiç anlamıyorum!
+Dialogue: 0,0:13:18.60,0:13:22.27,Default,Akemi,0,0,0,,Kendimi ergenlik çağındaki oğullarıyla \Nuğraşan bir anne gibi hissediyorum.
+Dialogue: 0,0:13:22.61,0:13:27.12,Default,Basue,0,0,0,,Ama ben şu sous vide pişiriciyi\Nkullanmanın hep zor olduğunu düşünürdüm.
+Dialogue: 0,0:13:27.12,0:13:30.65,Default,Akemi,0,0,0,,Evet, gıda zehirlenmesi yaşamaktan \Nhiç korkmuyor musunuz?
+Dialogue: 0,0:13:30.65,0:13:34.37,Default,Yamada,0,0,0,,Evet. Bu yüzden son\Nderece dikkatli davranıyoruz.
+Dialogue: 0,0:13:34.37,0:13:37.15,Default,Yamada,0,0,0,,Bakterileri öldürmek için sıcaklığın \Ndoğru olduğundan emin olmak gibi mesela.
+Dialogue: 0,0:13:37.87,0:13:39.42,Default,Basue,0,0,0,,Zor iş olmalı.
+Dialogue: 0,0:13:39.71,0:13:41.15,Default,Yamada,0,0,0,,Evet, öyle.
+Dialogue: 0,0:13:41.48,0:13:44.42,Default,Yamada,0,0,0,,Açıkçası, o kadar hızlı ısınıyor ki \Nhem bakterileri öldürüyor...
+Dialogue: 0,0:13:44.42,0:13:46.48,Default,Yamada,0,0,0,,Hem de düşük sıcaklıkta pişirmenin \Ntüm olayını ortadan kaldırıyor.
+Dialogue: 0,0:13:46.48,0:13:48.48,Default,Basue,0,0,0,,Biftek de neymiş...
+Dialogue: 0,0:13:48.48,0:13:50.45,Default,Yamada,0,0,0,,Dediğim gibi, hem pişirme\Nsüresine dikkat etmelisin...
+Dialogue: 0,0:13:50.45,0:13:52.32,Default,Yamada,0,0,0,,...hem de piştikten sonra\Nnasıl saklayacağına.
+Dialogue: 0,0:13:52.32,0:13:54.85,Default,Yamada,0,0,0,,Epey uğraştırıcı bir iş yani.
+Dialogue: 0,0:13:57.35,0:14:00.10,Default,Yamada,0,0,0,,Yani... En nihayetinde...
+Dialogue: 0,0:14:02.01,0:14:05.47,Default,All,0,0,0,,Çok geçmeden onu bir kenara kaldırıp bırakırsın!
+Dialogue: 0,0:14:06.82,0:14:11.83,Eyecatch - Snack Basue,Caption,0,0,0,,Snack Basue
+Dialogue: 0,0:14:07.86,0:14:10.99,Default,Basue,0,0,0,,Snack Basue.
+Dialogue: 0,0:14:12.58,0:14:17.58,sign_20442_260__Who_do_you_thin,Caption,0,0,0,,{\fad(565,515)\pos(931,997.4)}(Sen Kim Olduğunu Sanıyorsun?
+Dialogue: 0,0:14:12.58,0:14:17.58,sign_20442_260__Who_do_you_thin,Caption,0,0,0,,{\fad(565,515)\pos(297,829.4)}Sorunlu Adam
+Dialogue: 0,0:14:16.41,0:14:17.66,Main - Top,Kazama,0,0,0,,Sence ben şöyle...
+Dialogue: 0,0:14:19.67,0:14:21.91,Default,Kazama,0,0,0,,Kocaman aleti olan bir adama benziyor muyum?
+Dialogue: 0,0:14:24.01,0:14:24.71,Default,Yamada,0,0,0,,Ha?
+Dialogue: 0,0:14:25.15,0:14:28.62,Default,Kazama,0,0,0,,Yok canım, gerçek anlamda\Nboyutundan bahsetmiyorum.
+Dialogue: 0,0:14:28.62,0:14:29.80,Default,Yamada,0,0,0,,Cidden, ne?!
+Dialogue: 0,0:14:29.80,0:14:34.49,Default,Kazama,0,0,0,,Malın kendisini kastetmiyorum,\Ndaha çok varlığımdan bahsediyorum.
+Dialogue: 0,0:14:34.49,0:14:36.36,Default,Kazama,0,0,0,,Sormak istediğim buydu.
+Dialogue: 0,0:14:36.36,0:14:38.59,Default,Yamada,0,0,0,,Ben de diyorum ki sana,\Nbunu niye bana soruyorsun?
+Dialogue: 0,0:14:39.19,0:14:42.48,Default,Yamada,0,0,0,,Bana sorduğuna göre bu konuda\Nkendine güveniyorsun herhalde ama...
+Dialogue: 0,0:14:42.48,0:14:45.47,Default,Yamada,0,0,0,,Bu kadar havadan sonra küçük\Nçıkarsa da harbi üzücü olur yani...
+Dialogue: 0,0:14:46.36,0:14:48.60,Main - Italics,Yamada,0,0,0,,Bekle... Blöf mü yapıyor?
+Dialogue: 0,0:14:48.60,0:14:50.63,Main - Italics,Yamada,0,0,0,,Olduğundan büyük görünmesi\Niçin blöf mü yapıyor?
+Dialogue: 0,0:14:51.08,0:14:52.93,Default,Akemi,0,0,0,,Ne üst düzey bir psikolojik savaş ama.
+Dialogue: 0,0:14:53.66,0:14:55.93,Default,Yamada,0,0,0,,Eminim çok büyüktür.
+Dialogue: 0,0:14:59.30,0:15:01.68,Default,Kazama,0,0,0,,Peki, bizzat gerçek boyutu \Nhakkında ne düşünüyorsun?
+Dialogue: 0,0:15:01.68,0:15:05.13,Default,Yamada,0,0,0,,Ee?! Bunun az önceki sorudan\Nne farkı var şimdi?!
+Dialogue: 0,0:15:05.13,0:15:08.01,Default,Kazama,0,0,0,,Tamamen farklı be adam!
+Dialogue: 0,0:15:08.01,0:15:12.18,Default,Kazama,0,0,0,,Gişe rekortmeni bir filmin ilk çıktığı\Nanki incelemesiyle...
+Dialogue: 0,0:15:12.19,0:15:14.16,Default,Kazama,0,0,0,,İki hafta sonraki incelemesi\Nkadar farklı hem de!
+Dialogue: 0,0:15:14.16,0:15:19.27,Default,Akemi,0,0,0,,Bu tarz örnekleri bile bu kadar rahat \Nbulabilmesinden nefret ediyorum.
+Dialogue: 0,0:15:20.38,0:15:23.91,Default,Kazama,0,0,0,,Hadi ama... Gel de\Nkendi gözlerinle gör.
+Dialogue: 0,0:15:23.91,0:15:25.57,Default,Yamada,0,0,0,,Ahlak anlayışın mı bozuldu senin?
+Dialogue: 0,0:15:25.57,0:15:28.34,Default,Kazama,0,0,0,,Şaka yapıyorum ya!
+Dialogue: 0,0:15:28.34,0:15:31.77,Default,Kazama,0,0,0,,O kadar şovdan sonra aletim küçük \Nçıksaydı hep beraber güler geçerdik işte.
+Dialogue: 0,0:15:31.77,0:15:34.65,Default,Yamada,0,0,0,,Ben gülüp geçmekten ziyade \Nbayağı iğrenirdim herhalde.
+Dialogue: 0,0:15:35.15,0:15:38.04,Default,Kazama,0,0,0,,Ama biliyorsun, biri bakıp\Nkontrol etmediği sürece...
+Dialogue: 0,0:15:38.04,0:15:41.69,Default,Kazama,0,0,0,,Aletimin büyük mü küçük mü olduğunu \Nbilmenin hiçbir yolu yok.
+Dialogue: 0,0:15:41.69,0:15:43.01,Default,Akemi,0,0,0,,Kapalı tutabilir misin lütfen?
+Dialogue: 0,0:15:43.38,0:15:45.15,Default,Kazama,0,0,0,,Nasıl anlatsam ki?
+Dialogue: 0,0:15:45.15,0:15:48.36,Default,Kazama,0,0,0,,Kontrol edilene kadar, büyük olmasıyla...
+Dialogue: 0,0:15:48.36,0:15:53.93,Default,Kazama,0,0,0,,...küçük olması eşit ihtimal dahilindedir. Zekice bir benzetme yapmak gerekirse...
+Dialogue: 0,0:15:53.93,0:15:58.78,Default,Kazama,0,0,0,,Buna "Schrödinger'in Aleti" diyebiliriz, değil mi?
+Dialogue: 0,0:15:57.06,0:16:02.48,sign_22947_293_Quantum_Fluctuat,Caption,0,0,0,,{\fad(813,1)}Kuantum Dalgalanması
+Dialogue: 0,0:15:58.78,0:16:02.11,Default,Akemi,0,0,0,,Sen "zekice" kelimesinin anlamını \Nbilmeyecek kadar aptal mısın?
+Dialogue: 0,0:16:02.75,0:16:05.68,Default,Kazama,0,0,0,,Mutlak değerlendirmeyle\Ngöreceli değerlendirme arasında...
+Dialogue: 0,0:16:05.68,0:16:08.29,Default,Kazama,0,0,0,,...ikincisinin daha önemli olduğunu söylüyorum.
+Dialogue: 0,0:16:08.86,0:16:14.01,Default,Kazama,0,0,0,,Eğer kimse aletimin büyük olduğunu \Nkabul etmezse, ben de edemem.
+Dialogue: 0,0:16:14.01,0:16:16.19,Default,Yamada,0,0,0,,Bu da bayağı {\i1}büyük{\i0} bir iddia oldu.
+Dialogue: 0,0:16:17.04,0:16:20.75,Default,Akemi,0,0,0,,Eğer alet görmek istiyorsan, hamamda \Nistediğin kadar görebilirsin zaten.
+Dialogue: 0,0:16:20.75,0:16:24.24,Default,Akemi,0,0,0,,Kıyaslama yapınca, kendininkinin ne kadar \Nbüyük olduğunu anlayamıyor musun?
+Dialogue: 0,0:16:24.24,0:16:26.12,Default,Kazama,0,0,0,,Hamama gitsem bile...
+Dialogue: 0,0:16:26.12,0:16:28.72,Default,Kazama,0,0,0,,"Koca koca adamlar aletleri \Nmeydanda geziyor!" diye düşünürüm.
+Dialogue: 0,0:16:28.72,0:16:32.19,Default,Kazama,0,0,0,,O kadar gerilirim ki ona \Nodaklanamam bile.
+Dialogue: 0,0:16:33.18,0:16:35.01,Default,Akemi,0,0,0,,Seninki küçük bence.
+Dialogue: 0,0:16:35.43,0:16:40.30,Default,Akemi,0,0,0,,Hem zaten bu alet boyutunu \Nsadece erkekler kafaya takıyor gibi.
+Dialogue: 0,0:16:40.30,0:16:41.33,Default,Kazama,0,0,0,,Nee?!
+Dialogue: 0,0:16:41.33,0:16:44.06,Default,Yamada,0,0,0,,İşte bu, o çok güvendiği aletinin \Nbeş para etmediğini duyduktan sonra...
+Dialogue: 0,0:16:44.06,0:16:46.73,Default,Yamada,0,0,0,,Gururu tuzla buz olan bir adamın \Nvereceği tepkidir.
+Dialogue: 0,0:16:47.79,0:16:50.00,Default,Kazama,0,0,0,,Öyle diyorsun ama...
+Dialogue: 0,0:16:50.00,0:16:52.67,Default,Kazama,0,0,0,,Sen de büyük alet seviyorsun \Ndeğil mi, Akemi-chan?
+Dialogue: 0,0:16:52.67,0:16:56.83,Default,Akemi,0,0,0,,Beni bu şekilde taciz edebildiğine göre \Nkesinlikle çok büyük bir aletin olmalı.
+Dialogue: 0,0:16:57.49,0:16:59.30,Default,Akemi,0,0,0,,Hmm...
+Dialogue: 0,0:17:01.34,0:17:04.53,Default,Akemi,0,0,0,,Bir TV animesinde bu konudan \Ndaha ne kadar bahsedebiliriz acaba?
+Dialogue: 0,0:17:04.53,0:17:06.67,Default,Yamada,0,0,0,,Bu şovda gördüklerimizden sonra...
+Dialogue: 0,0:17:06.67,0:17:09.11,Default,Yamada,0,0,0,,...bunu önemseselerdi, bu seriyi \Nen baştan animeye uyarlamazlardı zaten.
+Dialogue: 0,0:17:09.73,0:17:11.02,Default,Akemi,0,0,0,,Her neyse!
+Dialogue: 0,0:17:11.45,0:17:16.30,Default,Akemi,0,0,0,,Bir kadının gözünden konuşacak olursam, \Nbüyük olması illa daha iyi demek değildir!
+Dialogue: 0,0:17:16.30,0:17:21.62,Default,Kazama,0,0,0,,O zaman biz erkekler neden bunun \Nboyutunu bu kadar dert ediyoruz ki?
+Dialogue: 0,0:17:21.62,0:17:24.22,Default,Yamada,0,0,0,,Herkes adına konuşuyorsun gibi oldu ama...
+Dialogue: 0,0:17:25.21,0:17:30.02,Main - Italics,Yamada,0,0,0,,Gerçi... Düşününce, teknik olarak \Nbu konuda haksız sayılmaz.
+Dialogue: 0,0:17:30.52,0:17:33.92,Default,Kazama,0,0,0,,Kadınların alet boyutunu kafaya\Ntakmadığına {\i1}gerçekten{\i0} emin misiniz?
+Dialogue: 0,0:17:33.92,0:17:36.78,Default,Kazama,0,0,0,,Ero-mangalarda hep büyük aletliler \Nkazanmıyor mu sonuçta?!
+Dialogue: 0,0:17:36.78,0:17:40.61,Default,Ero-manga female,0,0,0,,Aa! Kazandı! Erkek arkadaşımınkinden\Nbile daha büyük! Harika!
+Dialogue: 0,0:17:40.61,0:17:42.38,Default,Yamada,0,0,0,,Bu kaynağın hiçbir güvenilirliği yok!
+Dialogue: 0,0:17:42.38,0:17:44.22,Default,Akemi,0,0,0,,Senin beynin resmen çürümüş!
+Dialogue: 0,0:17:44.54,0:17:46.57,Default,Kazama,0,0,0,,Hayır, ikna olmadım!
+Dialogue: 0,0:17:46.57,0:17:49.17,Default,Kazama,0,0,0,,Büyük bir gergedan böceğiyle \Nküçük olanı kıyaslayınca,
+Dialogue: 0,0:17:49.17,0:17:52.50,Default,Kazama,0,0,0,,...nereden bakarsan bak, büyüğünün \Ndaha cazibeli olduğunu düşünmez misin?
+Dialogue: 0,0:17:54.27,0:17:58.10,Default,Akemi,0,0,0,,Sen kadın ruhundan \Ngerçekten hiç anlamıyorsun, değil mi?
+Dialogue: 0,0:17:58.57,0:18:00.47,Default,Akemi,0,0,0,,Hem zaten kızlar...
+Dialogue: 0,0:18:01.42,0:18:03.54,Default,Akemi,0,0,0,,Geyik böceklerini daha çok sever.
+Dialogue: 0,0:18:03.54,0:18:04.51,Default,Yamada,0,0,0,,Bu ne demek şimdi?!
+Dialogue: 0,0:18:05.35,0:18:09.50,Default,Akemi,0,0,0,,Geyik böceği daha ölümcül, \Ndeğil mi ama?
+Dialogue: 0,0:18:09.50,0:18:12.87,Default,Akemi,0,0,0,,İşte bu yüzden kızlar, geyik böceklerini \Ngergedan böceklerinden daha çok sever.
+Dialogue: 0,0:18:10.85,0:18:13.90,Main - Top,Yamada,0,0,0,,Bunun genel olarak kızların değil de,\Nsadece senin fikrin olmadığına emin misin?!
+Dialogue: 0,0:18:14.20,0:18:15.72,Default,Kazama,0,0,0,,Demek öyle...
+Dialogue: 0,0:18:15.72,0:18:19.97,Default,Kazama,0,0,0,,Demek kızlar alet boyutuyla \Npek ilgilenmiyor ha...
+Dialogue: 0,0:18:20.38,0:18:22.60,Default,Yamada,0,0,0,,Son söylediği şey seni ikna etmeye \Nyetti mi yani cidden?
+Dialogue: 0,0:18:22.60,0:18:25.16,Default,Akemi,0,0,0,,İlgilenmiyoruz demedim ki!
+Dialogue: 0,0:18:25.42,0:18:27.52,Default,Akemi,0,0,0,,Demek istediğim, ne kadar büyük \Nolması gerektiğine dair...
+Dialogue: 0,0:18:27.52,0:18:29.12,Default,Akemi,0,0,0,,...özel bir tercihimiz veya takıntımız yok!
+Dialogue: 0,0:18:29.12,0:18:31.22,Default,Akemi,0,0,0,,Biz, aletlere herkesten\Nçok ilgi duyuyoruz!
+Dialogue: 0,0:18:31.22,0:18:33.04,Default,Yamada,0,0,0,,Niye sinirleniyorsun ki şimdi?
+Dialogue: 0,0:18:33.04,0:18:36.17,Default,Akemi,0,0,0,,Erkekler sürekli büyük olmasıyla övünüp \Nduruyor ama olay o değil!
+Dialogue: 0,0:18:36.17,0:18:38.42,Default,Akemi,0,0,0,,Ondan çok daha önemli şeyler var!
+Dialogue: 0,0:18:38.80,0:18:40.59,Default,Kazama,0,0,0,,Yani, evet.
+Dialogue: 0,0:18:40.59,0:18:44.42,Default,Kazama,0,0,0,,Piyasada koca ama işlevsiz \Naletleri olan bakirler var sonuçta.
+Dialogue: 0,0:18:44.42,0:18:46.22,Default,Akemi,0,0,0,,Bu lafın izleyicileri resmen \Nkarşına alacak!
+Dialogue: 0,0:18:46.22,0:18:49.02,Default,Yamada,0,0,0,,Bu söylediğin de izleyicileri \Nkarşına alacak!
+Dialogue: 0,0:18:49.26,0:18:52.67,Default,Yamada,0,0,0,,Y-Yani önemli olan aletin büyüklüğü değil,
+Dialogue: 0,0:18:52.67,0:18:56.90,Default,Yamada,0,0,0,,...insanın kalbinin veya sevgisinin ne kadar büyük\Nolduğudur. Öyle bir şey mi?
+Dialogue: 0,0:18:56.90,0:18:59.07,Default,Akemi,0,0,0,,O da değil!
+Dialogue: 0,0:18:59.07,0:19:01.56,Default,Akemi,0,0,0,,Küçük aletlileri boşuna şımartma!
+Dialogue: 0,0:19:01.56,0:19:03.65,Default,Akemi,0,0,0,,Biz burada bizzat {\i1}aletlerden{\i0} bahsediyoruz!
+Dialogue: 0,0:19:03.65,0:19:07.63,Default,Kazama,0,0,0,,Ah, korkunç! Aletim küçülmeye başladı...
+Dialogue: 0,0:19:07.63,0:19:12.60,Default,Akemi,0,0,0,,Bir aletin sadece boyutu değil, şekli ve rengi\Ngibi başka puanlama kriterleri de vardır!
+Dialogue: 0,0:19:12.60,0:19:17.38,Default,Akemi,0,0,0,,Bunları yok sayıp sadece boyutun önemli\Nolduğunu iddia etmek doğru mu yani?
+Dialogue: 0,0:19:19.96,0:19:21.94,Default,Yamada,0,0,0,,Aklıma çok bilindik bir söz geliyor...
+Dialogue: 0,0:19:22.36,0:19:26.14,Default,Kazama,0,0,0,,Önemli olan büyük göğüslü olmak değildir.
+Dialogue: 0,0:19:26.14,0:19:28.52,Default,Kazama,0,0,0,,Doğru orantıya sahip olmak da önemlidir.
+Dialogue: 0,0:19:29.35,0:19:34.25,Default,Kazama,0,0,0,,Ama durum buysa, artık\Nsadece boyutu değil...
+Dialogue: 0,0:19:34.25,0:19:36.58,Default,Kazama,0,0,0,,...aletimin şeklini ve rengini de \Ndert etmeye başlayacağım.
+Dialogue: 0,0:19:39.01,0:19:41.02,Default,Kazama,0,0,0,,Bunu benim için değerlendirebilir misin?
+Dialogue: 0,0:19:41.02,0:19:42.28,Default,Yamada,0,0,0,,Asla olmaz.
+Dialogue: 0,0:19:42.28,0:19:45.76,Default,Akemi,0,0,0,,Şey... Ben de dış kapının dış mandalı\Nolarak araya girebilir miyim?
+Dialogue: 0,0:19:45.76,0:19:47.54,Default,Akemi,0,0,0,,Konunun iyice içine battım zaten!
+Dialogue: 0,0:19:47.54,0:19:49.40,Default,Yamada,0,0,0,,İçine mi battın?!
+Dialogue: 0,0:19:50.08,0:19:54.10,Default,Yamada,0,0,0,,Nasıl anlatsam... Birinin bana aletini \Ngöstermesi bir yana, başkasının...
+Dialogue: 0,0:19:54.10,0:19:58.55,Default,Yamada,0,0,0,,...aletinin puanlanmasını izlemekten\Ngerçekten hiç hoşlanmıyorum.
+Dialogue: 0,0:19:58.55,0:20:00.21,Default,Akemi,0,0,0,,Kıskandın mı yoksa?
+Dialogue: 0,0:20:00.21,0:20:04.20,Default,Akemi,0,0,0,,Seninkine değil de başkasının aletine \Nbakıyorum diye mi kıskandın?
+Dialogue: 0,0:20:04.20,0:20:06.34,Default,Kazama,0,0,0,,Yok, sadece iğrendi.
+Dialogue: 0,0:20:07.09,0:20:09.73,Default,Kazama,0,0,0,,Neyse o zaman, bir bakalım...
+Dialogue: 0,0:20:18.11,0:20:19.11,Default,Kazama,0,0,0,,Nasıl?
+Dialogue: 0,0:20:26.84,0:20:29.62,Default,Akemi,0,0,0,,Evet, bugün de her zamanki\Ngibi huzurlu bir gün.
+Dialogue: 0,0:20:42.30,0:20:45.09,Default,Akemi,0,0,0,,Aa, Mama, ne zamandan beri tuvaletteydin?
+Dialogue: 0,0:20:45.36,0:20:52.45,Default,Basue,0,0,0,,Hadi bakalım. Bugün yine sakin bir gün oldu, \Nartık yavaştan geceyi kapatmaya başlayalım.
+Dialogue: 0,0:20:52.45,0:20:56.75,Default,Akemi,0,0,0,,Günü cidden Kazama'nın aletine \Nbakarak bitirmek istemiyorum.
+Dialogue: 0,0:20:56.75,0:20:59.62,Default,Kazama,0,0,0,,O zaman bir şarkı\Nsöyleyelim de gün öyle bitsin.
+Dialogue: 0,0:20:59.62,0:21:02.66,Default,Yamada,0,0,0,,Kazama-san, sen kendin hiç\Nsöylemedin, o yüzden bence söyleme.
+Dialogue: 0,0:21:02.99,0:21:05.93,Default,Akemi,0,0,0,,Hmm... Mama, sen bir şeyler söylesene.
+Dialogue: 0,0:21:05.93,0:21:07.64,Default,Basue,0,0,0,,Ne? Ben mi?
+Dialogue: 0,0:21:07.64,0:21:11.74,Default,Akemi,0,0,0,,Lütfen herkesin yarın işe gitmek için \Nmotive olmasını sağlayacak bir şarkı söyle.
+Dialogue: 0,0:21:11.74,0:21:12.91,Default,Basue,0,0,0,,Ah, bakalım...
+Dialogue: 0,0:21:14.04,0:21:17.04,sign_30226_378_Reserved________,Caption,0,0,0,,{\pos(414,465)\b1\c&HCAD9DD&}Şarkı Seç
+Dialogue: 0,0:21:14.04,0:21:17.04,sign_30226_379__While_Listening,Caption,0,0,0,,{\c&HCFDEE6&\3c&H2C3349&\pos(994.667,540)}Alkışla
+Dialogue: 0,0:21:15.03,0:21:15.79,Default,Akemi,0,0,0,,Ne?!
+Dialogue: 0,0:21:18.81,0:21:22.36,Default,Kazama,0,0,0,,Bu şarkıyı bilmiyorum ama adı \Nparlak bir geleceği çağrıştırıyor.
+Dialogue: 0,0:21:22.36,0:21:25.58,Default,Yamada,0,0,0,,Hayır... Akemi-san az önce bu\Nşarkı yüzünden "Ne?!" demedi mi?
+Dialogue: 0,0:21:26.30,0:21:30.83,Default,Basue,0,0,0,,Geleceğe umutla bakan\Ndüşüncelerle dolu bir şarkıdır.
+Dialogue: 0,0:21:30.83,0:21:34.11,Default,Akemi,0,0,0,,Evet, öyle herhalde ama...
+Dialogue: 0,0:21:36.95,0:21:42.69,Main - Italics,Basue,0,0,0,,Her zamanki gibi perdeler açıldı ve
+Dialogue: 0,0:21:42.69,0:21:49.30,Main - Italics,Basue,0,0,0,,Aşk şarkımı söylemeye başladım ki,
+Dialogue: 0,0:21:49.30,0:21:54.11,Main - Italics,Basue,0,0,0,,Bir haber gördüm ansızın,
+Dialogue: 0,0:21:55.17,0:22:04.34,Main - Italics,Basue,0,0,0,,Gazetenin arka sayfasında basılmış olan.
+Dialogue: 0,0:22:04.83,0:22:14.89,Main - Italics,Basue,0,0,0,,Üç yıl önceydi, seni istasyonda bırakıp
+Dialogue: 0,0:22:14.89,0:22:25.25,Main - Italics,Basue,0,0,0,,Beni durdurmaya çalışmana rağmen \Nhareket eden trene tek başıma atladığımda.
+Dialogue: 0,0:22:26.79,0:22:32.65,Main - Italics,Basue,0,0,0,,Öğleden sonra, sakin bir kasabada,
+Dialogue: 0,0:22:32.65,0:22:39.26,Main - Italics,Basue,0,0,0,,Kilisenin önünde kalakaldım.
+Dialogue: 0,0:22:39.26,0:22:44.69,Main - Italics,Basue,0,0,0,,Üzerimde siyah bir yas elbisesi varken,
+Dialogue: 0,0:22:45.15,0:22:55.62,Main - Italics,Basue,0,0,0,,Dua edecek kelimeleri bile yitirmiştim.
+Dialogue: 0,0:22:57.89,0:23:00.04,Default,Basue,0,0,0,,Çok teşekkür ederim.
+Dialogue: 0,0:23:00.83,0:23:02.83,Default,Kazama,0,0,0,,Bu biraz şeydi...
+Dialogue: 0,0:23:02.83,0:23:04.69,Default,Yamada,0,0,0,,Yalnız ve kasvetliydi, değil mi?
+Dialogue: 0,0:23:05.11,0:23:11.19,Default,Akemi,0,0,0,,Ah, Mama, günü böyle kasvetli bir\Nşarkıyla bitirdiğine inanamıyorum ya.
+Dialogue: 0,0:23:11.19,0:23:13.93,Default,Basue,0,0,0,,Endişelenme, Akemi-chan.
+Dialogue: 0,0:23:13.93,0:23:15.18,Default,Akemi,0,0,0,,Ne hakkında?
+Dialogue: 0,0:23:15.62,0:23:22.22,Default,Basue,0,0,0,,Bir gün nasıl biterse bitsin, \Nyarın yeni bir gündür.
+Dialogue: 0,0:23:22.67,0:23:26.59,Default,Basue,0,0,0,,Snack Basue her zamanki gibi\Nhizmet vermeye devam edecek.
+Dialogue: 0,0:23:26.59,0:23:28.21,Default,Akemi,0,0,0,,Ne güzel söyledin.
+Dialogue: 0,0:23:28.50,0:23:30.40,Default,Kazama,0,0,0,,O zaman ben yarın da gelirim herhalde.
+Dialogue: 0,0:23:30.40,0:23:32.34,Default,Yamada,0,0,0,,Ne, yarın da mı?
+Dialogue: 0,0:23:32.34,0:23:34.77,Default,Kazama,0,0,0,,Ne yani, sen gelmek istemiyor musun?
+Dialogue: 0,0:23:34.77,0:23:37.72,Default,Yamada,0,0,0,,Hayır, daha çok {\i1}seninle{\i0}\Ngelmek istemiyorum, Kazama-san...
+Dialogue: 0,0:23:37.72,0:23:39.69,Default,Kazama,0,0,0,,Hey. Hey. Hey. Hey. Hey!
+Dialogue: 0,0:23:39.69,0:23:41.18,Default,Kazama,0,0,0,,Ne kadar oyunbozan birisin ya.
+Dialogue: 0,0:23:41.18,0:23:43.14,Default,Yamada,0,0,0,,Dediğim gibi, tam da bu tavrın \Nyüzünden {\i1}oyunbozanlık{\i0} yapıyorum.
+Dialogue: 0,0:23:43.14,0:23:44.77,Default,Akemi,0,0,0,,Rica ediyorum! Rica ediyorum!
+Dialogue: 0,0:23:44.77,0:23:46.80,Default,Yamada,0,0,0,,Şu yanlışlıkla kullandığın lafı \Ndile dolamaya amma meraklısın ha.
+Dialogue: 0,0:23:46.80,0:23:48.70,Default,Akemi,0,0,0,,Çoktan dillere dolandı bile!
+Dialogue: 0,0:23:48.70,0:23:50.75,Default,Yamada,0,0,0,,Cidden mi? Daha önce hiç duymadım.
