@@ -1,0 +1,66 @@
+[Script Info]
+Title: The-Lumina-Company - Snack Basue
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: sign_121_2_POOP,Trebuchet MS,72,&H009ACD93,&H000000FF,&H004A6278,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,123,1596,558,1
+Style: sign_610_10_Cat_Red,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00FDFBFC,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,1470,264,927,1
+Style: sign_610_11_Cat_Red1,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,12,0,2,1455,249,927,1
+Style: sign_701_17_Slightly_Pervert,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00030505,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,1359,129,273,1
+Style: sign_815_21_Slightly_Pervert,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00030505,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,1359,129,273,1
+Style: sign_815_22_Cat_Yellow,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00FDFBFC,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,138,1524,822,1
+Style: sign_4476_42__Dedicated_to_th,Verdana,54,&H00AD3B97,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,342,342,45,1
+Style: sign_7475_82_Takuboku_Ishikaw,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00FDFBFC,&H00000000,-1,-1,0,0,100,100,0,0,1,6,0,2,774,663,174,1
+Style: sign_16298_192_Elderly_IN__Mora,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00FDFBFC,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,576,843,795,1
+Style: sign_23135_276_Karaoke,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,795,921,870,1
+Style: sign_23135_280_Favorite_Singer_,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,690,822,420,1
+Style: sign_23135_282_Doesn_t_Have_One,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,981,495,156,1
+Style: sign_23161_284_Talk_about_popul,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,561,732,66,1
+Style: sign_23161_285_Personality_Deni,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,1230,237,156,1
+Style: sign_30226_378_Reserved________,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,300,1284,630,1
+Style: sign_30226_379__While_Listening,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,645,387,621,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.99,0:00:08.54,sign_121_2_POOP,Caption,0,0,0,,{\blur3\fs60\frz21.2\3c&H35576F&\frx2\fry4\move(260.4,826.8,262.8,303.6,26,2200)BOK
+Dialogue: 1,0:00:25.39,0:00:28.64,sign_610_10_Cat_Red,Caption {red},0,0,0,,{\fad(1,434)\frz354.7\pos(1567.8,162.6)}Kırmızı Kedi
+Dialogue: 0,0:00:25.39,0:00:28.64,sign_610_11_Cat_Red1,Caption {red},0,0,0,,{\fad(1,434)\pos(1567.8,114.6)\frz354.7}Kırmızı Kedi
+Dialogue: 0,0:00:25.39,0:00:28.64,sign_610_10_Cat_Red,Caption {white},0,0,0,,{\fad(1,434)\c&HFFFFFF&\3c&H030505&\pos(1643,760.2)}(Biraz) Sapık\NGösterişçi
+Dialogue: 1,0:00:29.18,0:00:33.94,sign_610_10_Cat_Red,Caption {blue},0,0,0,,{\fad(1,562)\pos(691.8,124.2)\frz8.621\c&HD26244&}Mavi Kedi
+Dialogue: 0,0:00:29.18,0:00:33.94,sign_610_11_Cat_Red1,Caption {blue},0,0,0,,{\fad(1,562)\pos(691.8,124.2)\frz8.621\c&HD26244&}Mavi Kedi
+Dialogue: 0,0:00:29.18,0:00:33.94,sign_701_17_Slightly_Pervert,Caption {white},0,0,0,,{\fad(1,434)\pos(490.2,766.2)}(Birazcık)\NSapık\NLider
+Dialogue: 1,0:00:33.94,0:00:37.65,sign_610_10_Cat_Red,Caption {purple},0,0,0,,{\c&H9C09AA&\pos(1757.4,198.6)}Mor\NKedi
+Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_11_Cat_Red1,Caption {purple},0,0,0,,{\c&H9C09AA&\pos(1757.4,198.6)}Mor\NKedi
+Dialogue: 0,0:00:33.94,0:00:37.65,sign_815_21_Slightly_Pervert,Caption {white},0,0,0,,{\pos(1611,780.6)}(Biraz)\NAsık Yüzlü\NSapık
+Dialogue: 1,0:00:33.94,0:00:37.65,sign_815_22_Cat_Yellow,Caption {yellow},0,0,0,,{\frz15.51\pos(259.8,207.6)\c&H3A79F6&}Sarı Kedi
+Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_11_Cat_Red1,Caption {yellow},0,0,0,,{\frz15.51\pos(259.8,207.6)\c&H3A79F6&}Sarı Kedi
+Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_10_Cat_Red,Caption {white},0,0,0,,{\c&HFFFFFF&\3c&H030505&\pos(207,995.4)}Anormal\NSapık
+Dialogue: 0,0:03:06.63,0:03:11.64,sign_4476_42__Dedicated_to_th,Caption,0,0,0,,{\pos(996,1002.2)\fad(521,517)}(Güçlü Düşmanlarla Çevrili... ...!)
+Dialogue: 0,0:03:06.63,0:03:11.64,sign_4476_42__Dedicated_to_th,Caption,0,0,0,,{\pos(412,838.2)\fad(521,517)}Gece Yarısı Saatlerinde
+Dialogue: 0,0:05:11.71,0:05:19.28,sign_7475_82_Takuboku_Ishikaw,Caption,0,0,0,,{\pos(951.6,853.2)\c&H000306&\3c&HE8E9E8&}Takuboku Ishikawa
+Dialogue: 0,0:11:14.41,0:11:18.62,sign_610_10_Cat_Red,Caption,0,0,0,,{\fad(1,598)\pos(711,172.2)\c&H38282D&\3c&H6A4562&}Kanunsuzlar
+Dialogue: 0,0:11:19.71,0:11:25.55,sign_16298_192_Elderly_IN__Mora,Caption,0,0,0,,{\pos(681,232.2)\c&H2148A0&}Yaşlı {\c&H2BB4F5&}Var! {\c&HA5B319&}Ahlâk yüksek!
+Dialogue: 0,0:16:04.87,0:16:07.33,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(897,210,892.2,-97.2,22,2441)}Karaoke
+Dialogue: 0,0:16:04.87,0:16:09.04,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(1254.6,390,1254.6,-70.8,22,4151)}Şarkı söylememek
+Dialogue: 0,0:16:04.87,0:16:09.20,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(517.8,404.4,520.2,-138,22,4318)}Şarkı
+Dialogue: 0,0:16:04.87,0:16:10.96,sign_23135_280_Favorite_Singer_,Caption,0,0,0,,{\move(894,614.4,894,-76.8,22,6070)}Favori Şarkıcın?
+Dialogue: 0,0:16:04.87,0:16:11.62,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(388.2,673.2,397.8,-99.6,22,6737)}Şarkı
+Dialogue: 0,0:16:04.87,0:16:13.71,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(676.2,915.6,681,-82.8,22,8822)}Favorim var
+Dialogue: 0,0:16:04.87,0:16:13.83,sign_23135_282_Doesn_t_Have_One,Caption,0,0,0,,{\move(1176.6,928.8,1176.6,-84,22,8947)}Bir favorim yok
+Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_284_Talk_about_popul,Caption,0,0,0,,{\move(846.6,1062,839.4,202.8,26,8201)}Popüler şakılarla ilgili konuşmak
+Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_285_Personality_Deni,Caption,0,0,0,,{\move(1447.8,1060.8,1443,165.6,26,8201)}Kişilik İnkârı
+Dialogue: 0,0:16:05.99,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,böylece konuşmayı sevdiği sanatçılara doğru kaydırabilecek!
+Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(517.8,1062,517.8,519.6,26,5031)}Hayaller
+Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(887.4,1062,880.2,519.6,26,5031)}Sevgi
+Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(1254.6,1062,1245,514.8,26,5031)}Umur
+Dialogue: 0,0:16:12.62,0:16:14.17,sign_610_10_Cat_Red,Caption,0,0,0,,{\c&HFDFFFE&\3c&H080B09&\fs54\move(871.8,1029,869.4,714.6,30,1531)}Sınırsız
+Dialogue: 0,0:21:33.15,0:21:37.07,sign_30226_378_Reserved________,Caption,0,0,0,,{\c&HC6D9DE&\b1\pos(422.4,466.8)}Rezerve
+Dialogue: 0,0:21:33.15,0:21:37.07,sign_30226_379__While_Listening,Caption,0,0,0,,{\pos(1127.4,538.2)\3c&H253245&\c&HD0E0E8&}Dostlar
