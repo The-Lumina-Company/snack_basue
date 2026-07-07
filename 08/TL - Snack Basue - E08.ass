@@ -47,7 +47,7 @@ Dialogue: 0,0:00:04.99,0:00:08.54,sign_121_2_POOP,Caption,0,0,0,,{\blur3\fs60\fr
 Dialogue: 0,0:00:11.66,0:00:15.83,Default,Cat Yellow,0,0,0,,Aah, cidden o kartı mı istiyorsun?
 Dialogue: 0,0:00:15.08,0:00:15.83,Default,Cat Purple,0,0,0,,{\pos(948,103)}Ha... Ne?
 Dialogue: 0,0:00:15.83,0:00:17.92,Default,Cat Purple,0,0,0,,Ne demek istedin az önce?
-Dialogue: 0,0:00:17.92,0:00:21.20,Default,Cat Yellow,0,0,0,,Dokundun artık karda, geri almak yok.
+Dialogue: 0,0:00:17.92,0:00:21.20,Default,Cat Yellow,0,0,0,,Dokundun artık kara, geri almak yok.
 Dialogue: 0,0:00:21.20,0:00:22.53,Default,Cat Purple,0,0,0,,Ne?!
 Dialogue: 0,0:00:22.53,0:00:24.75,Default,Cat Red,0,0,0,,Ben cidden...
 Dialogue: 1,0:00:25.39,0:00:28.64,sign_610_10_Cat_Red,Caption {red},0,0,0,,{\fad(1,434)\frz354.7\pos(1567.8,162.6)}Kırmızı Kedi
@@ -89,7 +89,7 @@ Dialogue: 0,0:03:06.63,0:03:11.64,sign_4476_42__Dedicated_to_th,Caption,0,0,0,,{
 Dialogue: 0,0:03:09.72,0:03:10.68,Main - Top,Last Boss,0,0,0,,Tabii.
 Dialogue: 0,0:03:11.12,0:03:12.64,Main - Top,Akemi,0,0,0,,O zaman sorun yok!
 Dialogue: 0,0:03:13.03,0:03:14.58,Default,Akemi,0,0,0,,Alkol için teşekkürler!
-Dialogue: 0,0:03:20.73,0:03:24.03,Default,Akemi,0,0,0,,Pekala, müşteriler, bir göz gözderince, \Naranızda baya değişik insanlar var,
+Dialogue: 0,0:03:20.73,0:03:24.03,Default,Akemi,0,0,0,,Pekala, müşteriler, bir göz gezdirince, \Naranızda baya değişik insanlar var,
 Dialogue: 0,0:03:24.03,0:03:26.82,Default,Akemi,0,0,0,,gerçi bazılarınızı bir yerden gözüm ısırıyor ama...
 Dialogue: 0,0:03:26.82,0:03:29.91,Default,Akemi,0,0,0,,Nasıl tanıştınız? \Nİşten mi?
 Dialogue: 0,0:03:32.33,0:03:35.28,Default,Last Boss,0,0,0,,Ortak amaçlara sahip dostlarız...
@@ -104,7 +104,7 @@ Dialogue: 0,0:03:56.29,0:03:59.35,Default,Akemi,0,0,0,,Şakalar kendi aranızda 
 Dialogue: 0,0:03:59.35,0:04:04.40,Default,Basue,0,0,0,,Akemi-chan, bunlar muhtemelen başrollere karşı savaşan
 Dialogue: 0,0:04:04.40,0:04:05.84,Default,Basue,0,0,0,,bir örgütün komutanları.
 Dialogue: 0,0:04:05.84,0:04:09.97,Default,Akemi,0,0,0,,Or'da durunca onların yaşlı hâli gibi gözüküyorsun.
-Dialogue: 0,0:04:10.32,0:04:14.62,Default,Akemi,0,0,0,,Hmm... Düşman organizasyonun komutanları demek, ha...
+Dialogue: 0,0:04:10.32,0:04:14.62,Default,Akemi,0,0,0,,Hmm... Düşman örgütünün komutanları demek, ha...
 Dialogue: 0,0:04:14.62,0:04:17.79,Default,Akemi,0,0,0,,Anladığım kadarıyla, aranızdan biri yenildi sanırım?
 Dialogue: 0,0:04:17.79,0:04:19.33,Default,Akemi,0,0,0,,Zor olmalı...
 Dialogue: 0,0:04:19.33,0:04:21.05,Default,Last Boss,0,0,0,,Evet...
@@ -136,13 +136,13 @@ Dialogue: 0,0:05:36.43,0:05:37.82,Default,Sorceress,0,0,0,,Ama evet...
 Dialogue: 0,0:05:38.16,0:05:40.35,Default,Sorceress,0,0,0,,Ne dediğini anladım.
 Dialogue: 0,0:05:40.35,0:05:43.84,Default,Akemi,0,0,0,,Değil mi? O yüzden biraz daha heyecan verici yapalım şunu!
 Dialogue: 0,0:05:43.84,0:05:46.84,Default,Dark Knight,0,0,0,,Hmm... Lütfen söyleyin, nasıl "heyecan" yaratabiliriz?
-Dialogue: 0,0:05:47.36,0:05:52.13,Default,Akemi,0,0,0,,O zaman işker kızışabilir.
-Dialogue: 0,0:05:52.13,0:05:54.55,Default,Akemi,0,0,0,,O zaman işker kızışabilir.
-Dialogue: 0,0:05:54.55,0:05:56.16,Default,Muscle Brain,0,0,0,,Bağlantı?
-Dialogue: 0,0:05:56.16,0:05:57.35,Default,Muscle Brain,0,0,0,,Konu bağlantılarsa,
+Dialogue: 0,0:05:47.36,0:05:52.13,Default,Akemi,0,0,0,,Iııı. Eğer ana karakterle bir tür olayınız varsa,
+Dialogue: 0,0:05:52.13,0:05:54.55,Default,Akemi,0,0,0,,o zaman işler kızışabilir.
+Dialogue: 0,0:05:54.55,0:05:56.16,Default,Muscle Brain,0,0,0,,Olay?
+Dialogue: 0,0:05:56.16,0:05:57.35,Default,Muscle Brain,0,0,0,,Konu olaylarsa,
 Dialogue: 0,0:05:57.35,0:06:01.66,Default,Muscle Brain,0,0,0,,Başrolün ailesini öldüren bendim.
 Dialogue: 0,0:06:01.66,0:06:04.89,Default,Akemi,0,0,0,,Hadi bee! Bak bu iyiymiş!
-Dialogue: 0,0:06:04.89,0:06:07.79,Default,Akemi,0,0,0,,Bu iyi! Bu işleri çok pis kızıştırı!
+Dialogue: 0,0:06:04.89,0:06:07.79,Default,Akemi,0,0,0,,Bu iyi! Bu işleri çok pis kızıştırır!
 Dialogue: 0,0:06:07.79,0:06:11.03,Default,Akemi,0,0,0,,Dedikleri gibi, intikam en tatlı yemektir!
 Dialogue: 0,0:06:11.03,0:06:13.08,Default,Sorceress,0,0,0,,Durum buysa...
 Dialogue: 0,0:06:14.32,0:06:19.98,Default,Sorceress,0,0,0,,Başrolle aynı taraftaydım, tüm dünyayı korurdum
@@ -172,15 +172,15 @@ Dialogue: 0,0:07:32.84,0:07:34.74,Default,Last Boss,0,0,0,,Benim hiçbir olayım
 Dialogue: 0,0:07:34.74,0:07:35.68,Default,Akemi,0,0,0,,Ne?
 Dialogue: 0,0:07:35.68,0:07:38.99,Default,Last Boss,0,0,0,,Başrolle hiçbir bağlantısı olmayan bi' ben miyim?!
 Dialogue: 0,0:07:38.99,0:07:41.95,Default,Last Boss,0,0,0,,Böyle giderse başrolle hiç karşılaşmadan
-Dialogue: 0,0:07:41.95,0:07:45.01,Default,Last Boss,0,0,0,,direk son boss olarak gözükeceğim!
-Dialogue: 0,0:07:45.01,0:07:49.06,Default,Basue,0,0,0,,Şimdiden arkadaşlarının kaybedeciğini farz etmek iyi bir fikir mi?
+Dialogue: 0,0:07:41.95,0:07:45.01,Default,Last Boss,0,0,0,,direkt son boss olarak gözükeceğim!
+Dialogue: 0,0:07:45.01,0:07:49.06,Default,Basue,0,0,0,,Şimdiden arkadaşlarının kaybedeceğini farz etmek iyi bir fikir mi?
 Dialogue: 0,0:07:49.58,0:07:52.70,Default,Sorceress,0,0,0,,Seni salak, ne saçmalıyorsun öyle?
 Dialogue: 0,0:07:53.13,0:07:54.13,Default,Last Boss,0,0,0,,Ha?
 Dialogue: 0,0:07:54.13,0:07:57.27,Default,Muscle Brain,0,0,0,,Heh! Ne diye hemen pes ettin?
 Dialogue: 0,0:07:59.09,0:08:02.19,Default,Muscle Brain,0,0,0,,Sana yeterli zamanı kazandıracağız.
 Dialogue: 0,0:08:02.19,0:08:06.17,Default,Sorceress,0,0,0,,Böylece başrolle istediğin kadar bağ kurabilirsin...
 Dialogue: 0,0:08:06.17,0:08:09.98,Default,Dark Knight,0,0,0,,Ve ikonik bir son boss olabilirsin!
-Dialogue: 0,0:08:09.98,0:08:10.97,Default,Hood,0,0,0,,Beğebi tuşu.
+Dialogue: 0,0:08:09.98,0:08:10.97,Default,Hood,0,0,0,,Beğeni tuşu.
 Dialogue: 0,0:08:10.97,0:08:14.69,Default,Last Boss,0,0,0,,S-siz!
 Dialogue: 0,0:08:14.69,0:08:17.12,Default,Basue,0,0,0,,Ne güzel bir dostluk.
 Dialogue: 0,0:08:17.12,0:08:19.99,Default,Akemi,0,0,0,,Ama diğerlerine ters düşmeyecek şekilde
@@ -201,10 +201,11 @@ Dialogue: 0,0:09:25.82,0:09:28.15,Default,Tatsu-ni,0,0,0,,Ah, inek taklidi mi ya
 Dialogue: 0,0:09:28.15,0:09:30.25,Default,Akemi,0,0,0,,Hayır, zürafa taklidiydi.
 Dialogue: 0,0:09:30.25,0:09:32.68,Default,Tatsu-ni,0,0,0,,Al sana hayvanat bahçesi işte.
 Dialogue: 0,0:09:33.06,0:09:36.10,Default,Tatsu-ni,0,0,0,,Gördüğün üzere... Her birkaç yılda bir,
-Dialogue: 0,0:09:36.10,0:09:40.27,Default,Tatsu-ni,0,0,0,,rollar coastara binmek istediğin bir dönem oluyor,
+Dialogue: 0,0:09:36.10,0:09:40.27,Default,Tatsu-ni,0,0,0,,hız trenine binmek istediğin bir dönem oluyor,
+Dialogue: 0,0:06:04.91,0:06:04.95,Default,Tatsu-ni,0,0,0,,hız trenine binmek istediğin bir dönem oluyor,
 Dialogue: 0,0:09:40.27,0:09:42.58,Default,Tatsu-ni,0,0,0,,ve şu an o dönemdeyim.
 Dialogue: 0,0:09:42.58,0:09:45.94,Default,Akemi,0,0,0,,Eğlence parkı demek...
-Dialogue: 0,0:09:46.45,0:09:49.94,Default,Akemi,0,0,0,,Rollar coastardan falan pek anlamam.
+Dialogue: 0,0:09:46.45,0:09:49.94,Default,Akemi,0,0,0,,Hız treninden falan pek anlamam.
 Dialogue: 0,0:09:49.94,0:09:52.55,Default,Akemi,0,0,0,,Ama dönme dolapları severim!
 Dialogue: 0,0:09:53.82,0:09:57.81,Default,Akemi,0,0,0,,Gazlar ve mallar yüksek yerleri sever derler.
 Dialogue: 0,0:09:57.81,0:09:59.54,Default,Tatsu-ni,0,0,0,,Kendini mi kastediyorsun?
@@ -224,7 +225,7 @@ Dialogue: 0,0:10:43.52,0:10:46.40,Default,Tatsu-ni,0,0,0,,öyle zannedilecek kad
 Dialogue: 0,0:10:46.40,0:10:50.55,Default,Tatsu-ni,0,0,0,,Millet papa-katsu yapıyorum sanabilir!
 Dialogue: 0,0:10:46.40,0:10:50.55,Default,Tatsu-ni,0,0,0,,{\pos(952,279)}ÇN: Genç kadınların, kendilerinden yaşça büyük ve varlıklı erkeklerle vakit geçirmesi karşılığında maddi destek, harçlık veya lüks hediyeler almasıdır.
 Dialogue: 0,0:10:50.55,0:10:52.35,Default,Tatsu-ni,0,0,0,,Ayrıca sadece ikimiz olursak,
-Dialogue: 0,0:10:52.35,0:10:54.47,Default,Akemi,0,0,0,,eğlence parkında ranevuya çıkmışız gibi görünebilir...
+Dialogue: 0,0:10:52.35,0:10:54.47,Default,Akemi,0,0,0,,eğlence parkında randevuya çıkmışız gibi görünebilir...
 Dialogue: 0,0:10:54.47,0:10:55.92,Default,Akemi,0,0,0,,Öyle miymiş...
 Dialogue: 0,0:10:55.92,0:10:59.86,Default,Tatsu-ni,0,0,0,,Seni bir kadın olarak görüyorum, o yüzden olmaz.
 Dialogue: 0,0:10:59.86,0:11:03.02,Default,Akemi,0,0,0,,Beni kadın olarak görmen biraz mutlu etmedi değil ama
@@ -240,16 +241,16 @@ Dialogue: 0,0:11:19.74,0:11:22.62,Default,Basue,0,0,0,,Yaşlı VAR! AHLÂK YÜKS
 Dialogue: 0,0:11:22.62,0:11:25.55,Default,Tatsu-ni,0,0,0,,Ama hem mama hem sen or'da olursan...
 Dialogue: 0,0:11:25.55,0:11:28.22,Default,Tatsu-ni,0,0,0,,Snack bardan bir farkı kalmaz ki.
 Dialogue: 0,0:11:28.22,0:11:30.86,Default,Tatsu-ni,0,0,0,,Eğlence parkı imajını da korumamız lazım.
-Dialogue: 0,0:11:30.86,0:11:35.18,Default,Akemi,0,0,0,,Tatsu-ni, bahse varım sen odadaki aydınlatmanın ner'de olduğu gibi ince detaylar takılan birisindir!
+Dialogue: 0,0:11:30.86,0:11:35.18,Default,Akemi,0,0,0,,Tatsu-ni, bahse varım sen odadaki aydınlatmanın ner'de olduğu gibi ince detaylara takılan birisindir!
 Dialogue: 0,0:11:35.18,0:11:37.33,Default,Akemi,0,0,0,,Kendin gitsen o zaman?
 Dialogue: 0,0:11:37.33,0:11:39.34,Default,Tatsu-ni,0,0,0,,Öyle de biraz...
-Dialogue: 0,0:11:39.34,0:11:45.65,Default,Tatsu-ni,0,0,0,,Parka tek gidince rollar coasterdan zevk alınabileceğini sanmıyorum...
+Dialogue: 0,0:11:39.34,0:11:45.65,Default,Tatsu-ni,0,0,0,,Parka tek gidince hız treninden zevk alınabileceğini sanmıyorum...
 Dialogue: 0,0:11:45.65,0:11:48.87,Default,Akemi,0,0,0,,Moritayla Yamadayı çağırsana o zaman...
 Dialogue: 0,0:11:48.87,0:11:52.36,Default,Akemi,0,0,0,,Ya da boşver, onlar pek birlikte parka gidilecek tipler değiller...
 Dialogue: 0,0:11:52.36,0:11:56.74,Default,Tatsu-ni,0,0,0,,Aslında, üç kanka beraber eğlence parkına gitmek...
 Dialogue: 0,0:11:56.74,0:11:58.73,Default,Tatsu-ni,0,0,0,,aşırı eğlenceli olurdu!
 Dialogue: 0,0:11:58.73,0:12:00.95,Default,Akemi,0,0,0,,Ne, amca olmana rağmen mi?
-Dialogue: 0,0:12:00.95,0:12:05.39,Default,Tatsu-ni,0,0,0,,Çünkü parka rollar coastere binmeye gidiyoruz
+Dialogue: 0,0:12:00.95,0:12:05.39,Default,Tatsu-ni,0,0,0,,Çünkü parka hız trenine binmeye gidiyoruz
 Dialogue: 0,0:12:05.39,0:12:07.45,Default,Takuboku,0,0,0,,ve ikisi de gözlük takıyor!
 Dialogue: 0,0:12:07.45,0:12:09.74,Default,Akemi,0,0,0,,Binmeden önce gözlükleri çıkarttırıyorlar,
 Dialogue: 0,0:12:09.74,0:12:12.72,Default,Akemi,0,0,0,,ve sadece birkaç kişi eğlencenin tadına varabilir!
@@ -261,7 +262,7 @@ Dialogue: 0,0:12:32.20,0:12:35.43,Default,Morita,0,0,0,,İşte ben, hem de süpe
 Dialogue: 0,0:12:36.41,0:12:41.41,Snack - Episode Title,Caption,0,0,0,,{\pos(660,996.6)}{\fad(521,517)}(O dürüst kız)
 Dialogue: 0,0:12:36.41,0:12:41.41,Snack - Episode Title,Caption,0,0,0,,{\pos(200,844.6)}{\fad(521,517)}Melek
 Dialogue: 0,0:12:38.62,0:12:40.41,Main - Top,Kosame,0,0,0,,Hoşgeldiniz...
-Dialogue: 0,0:12:41.36,0:12:45.00,Main - Top,Morita,0,0,0,,Oh... You're the new hire, right?
+Dialogue: 0,0:12:41.36,0:12:45.00,Main - Top,Morita,0,0,0,,Ah... Yeni işe alınan sensin, değil mi?
 Dialogue: 0,0:12:45.00,0:12:46.71,Default,Morita,0,0,0,,Akemi-chanla Mama nerede?
 Dialogue: 0,0:12:47.22,0:12:50.96,Default,Kosame,0,0,0,,Üzgünüm... Bugün tek ben varım...
 Dialogue: 0,0:12:52.35,0:12:55.77,Default,Morita,0,0,0,,Haa... Peki...
@@ -284,17 +285,17 @@ Dialogue: 0,0:13:47.10,0:13:50.67,Default,Basue,0,0,0,,TV'de reality show izliyo
 Dialogue: 0,0:13:54.15,0:13:55.95,Default,Akemi,0,0,0,,Aa, yeter artık!
 Dialogue: 0,0:13:55.95,0:13:57.85,Default,Akemi,0,0,0,,Niye bu kadar utangaç davranıyorsunuz?!
 Dialogue: 0,0:13:57.85,0:14:00.48,Default,Akemi,0,0,0,,Özellikle sen, Morita, sen böyle biri değilsin!
-Dialogue: 0,0:14:00.48,0:14:04.66,Default,Akemi,0,0,0,,Parasını ödeyen bir müşteri olmak gibi bir avantajın var, o yüzen ilerle ve saldır!
+Dialogue: 0,0:14:00.48,0:14:04.66,Default,Akemi,0,0,0,,Parasını ödeyen bir müşteri olmak gibi bir avantajın var, o yüzden ilerle ve saldır!
 Dialogue: 0,0:14:04.66,0:14:08.25,Default,Basue,0,0,0,,Biliyor musun, asıl uğraşması gereken Kosame-chan?
 Dialogue: 0,0:14:08.25,0:14:10.41,Default,Basue,0,0,0,,Ama bu karşılaşma...
-Dialogue: 0,0:14:10.41,0:14:15.22,Default,Basue,0,0,0,,Kosame-chan'ın misafirperverlik becerilerina kalmış ama aynı zamanda
+Dialogue: 0,0:14:10.41,0:14:15.22,Default,Basue,0,0,0,,Kosame-chan'ın misafirperverlik becerilerine kalmış ama aynı zamanda
 Dialogue: 0,0:14:15.22,0:14:20.64,Default,Basue,0,0,0,,Morita-chan'ın çok takılmadan eve gidip gitmeyeceği de bir muamma.
 Dialogue: 0,0:14:21.52,0:14:24.85,Default,Akemi,0,0,0,,Tatsız bir eşleşme olacağını seziyorum...
 Dialogue: 0,0:14:24.85,0:14:26.69,Default,Basue,0,0,0,,Biz burada lak lak ederken,
 Dialogue: 0,0:14:26.69,0:14:29.69,Default,Basue,0,0,0,,bu maç Kosame-chan'ın liderliği eline alıp alamayacağına göre şekilleniyor...
 Dialogue: 0,0:14:30.22,0:14:32.34,Default,Kosame,0,0,0,,Eee...
 Dialogue: 0,0:14:33.56,0:14:34.86,Default,Kosame,0,0,0,,Şarkı söylemek ister misin?
-Dialogue: 0,0:14:34.86,0:14:38.32,Default,Basue and Akemi,0,0,0,,Çıkardı işte! Karaoke kumandas!
+Dialogue: 0,0:14:34.86,0:14:38.32,Default,Basue and Akemi,0,0,0,,Çıkardı işte! Karaoke kumandası!
 Dialogue: 0,0:14:38.32,0:14:42.40,Default,Basue,0,0,0,,Tıpkı düşündüğüm gibi, kalması için müşteriye şarkı söylettiriyor.
 Dialogue: 0,0:14:42.40,0:14:46.99,Default,Akemi,0,0,0,,Ama Morita bu durumda şarkı söyleyecek birisi değil...
 Dialogue: 0,0:14:47.43,0:14:50.55,Default,Akemi,0,0,0,,O, herkes izakaya'ya gittiğinde ne sipariş vereceğine
@@ -329,7 +330,7 @@ Dialogue: 0,0:16:04.87,0:16:10.96,sign_23135_280_Favorite_Singer_,Caption,0,0,0,
 Dialogue: 0,0:16:04.87,0:16:11.62,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(388.2,673.2,397.8,-99.6,22,6737)}Şarkı
 Dialogue: 0,0:16:04.87,0:16:13.71,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(676.2,915.6,681,-82.8,22,8822)}Favorim var
 Dialogue: 0,0:16:04.87,0:16:13.83,sign_23135_282_Doesn_t_Have_One,Caption,0,0,0,,{\move(1176.6,928.8,1176.6,-84,22,8947)}Bir favorim yok
-Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_284_Talk_about_popul,Caption,0,0,0,,{\move(846.6,1062,839.4,202.8,26,8201)}Popüler şakılarla ilgili konuşmak
+Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_284_Talk_about_popul,Caption,0,0,0,,{\move(846.6,1062,839.4,202.8,26,8201)}Popüler şarkılarla ilgili konuşmak
 Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_285_Personality_Deni,Caption,0,0,0,,{\move(1447.8,1060.8,1443,165.6,26,8201)}Kişilik İnkârı
 Dialogue: 0,0:16:05.99,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,böylece konuşmayı sevdiği sanatçılara doğru kaydırabilecek!
 Dialogue: 1,0:16:06.34,0:16:08.70,Default,Basue,0,0,0,,böylece konuşmayı sevdiği sanatçılara doğru kaydırabilecek!
@@ -392,7 +393,7 @@ Dialogue: 0,0:18:43.39,0:18:45.68,Default,Basue,0,0,0,,Aah, daha sabrım mabrım
 Dialogue: 0,0:18:45.68,0:18:49.98,Default,Basue,0,0,0,,Gidip mekanı basalım! Aynı gençlik dramalarındaki gibi!
 Dialogue: 0,0:18:49.98,0:18:52.66,Default,Basue,0,0,0,,Hem de arkaplanda Carpenter'ın müziğiyle!
 Dialogue: 0,0:18:52.66,0:18:54.66,Default,Akemi,0,0,0,,Tamamdır! Gidelim o zaman!
-Dialogue: 0,0:18:59.05,0:19:03.86,Default,Basue,0,0,0,,Arkaplanda carpentar'ın şarkısı çalmadı :(
+Dialogue: 0,0:18:59.05,0:19:03.86,Default,Basue,0,0,0,,Arkaplanda Carpentar'ın şarkısı çalmadı :(
 Dialogue: 0,0:19:03.86,0:19:06.66,Default,Akemi,0,0,0,,Bu da bir sebep tabii!
 Dialogue: 0,0:19:08.99,0:19:12.47,Default,Morita,0,0,0,,Ha, ağır çekimde bize doğru mu koşuyorlar?!
 Dialogue: 0,0:19:13.39,0:19:16.83,Default,Akemi,0,0,0,,Yeey! Reklamlardan sonrası da var demek!
@@ -418,8 +419,8 @@ Dialogue: 0,0:20:20.66,0:20:24.35,Default,Akemi,0,0,0,,Ah, ama Kosame-chan, lüt
 Dialogue: 0,0:20:24.35,0:20:27.95,Default,Akemi,0,0,0,,Moritanın suratına baktıkça daha rahatsız edici olacak.
 Dialogue: 0,0:20:27.95,0:20:32.07,Default,Morita,0,0,0,,Bir dizide habire gözüken kötü karakter falan mıyım ben?
 Dialogue: 0,0:20:27.95,0:20:32.07,Default,Morita,0,0,0,,{\pos(972,111)}ÇN: Bu nasıl bir örnek...
-Dialogue: 0,0:20:32.07,0:20:35.39,Default,Akemi,0,0,0,,Neden ileride bir gün popüler olacak karaktermiş gibi darvanıyorsun?
-Dialogue: 0,0:20:35.39,0:20:37.46,Default,Morita,0,0,0,,Başta, \N"Bu karakteri hiç sevmiyorum." dersion
+Dialogue: 0,0:20:32.07,0:20:35.39,Default,Akemi,0,0,0,,Neden ileride bir gün popüler olacak karaktermiş gibi davranıyorsun?
+Dialogue: 0,0:20:35.39,0:20:37.46,Default,Morita,0,0,0,,Başta, \N"Bu karakteri hiç sevmiyorum." dersin
 Dialogue: 0,0:20:37.46,0:20:40.16,Default,Morita,0,0,0,,ama bir süre sonra ona ısınıp onu sevmeye başlarsın.
 Dialogue: 0,0:20:38.83,0:20:39.77,Main - Top,Kosame,0,0,0,,Mama.
 Dialogue: 0,0:20:39.77,0:20:41.04,Main - Top,Basue,0,0,0,,Efendim?
