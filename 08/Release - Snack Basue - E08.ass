@@ -33,25 +33,54 @@ Style: sign_23161_284_Talk_about_popul,Trebuchet MS,48,&H008A1219,&H000000FF,&H0
 Style: sign_23161_285_Personality_Deni,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,1230,237,156,1
 Style: sign_30226_378_Reserved________,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,300,1284,630,1
 Style: sign_30226_379__While_Listening,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,645,387,621,1
+Style: pn-rxshwd1mad,Trebuchet MS,72,&H009ACD93,&H000000FF,&H004A6278,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,123,1596,558,1
+Style: pn-91a4ylcr85,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00FDFBFC,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,1470,264,927,1
+Style: pn-2ntz6xzd7g,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,12,0,2,1455,249,927,1
+Style: pn-h92fh0h5cx,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00030505,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,1359,129,273,1
+Style: pn-trmum4viks,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00030505,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,1359,129,273,1
+Style: pn-nr4z62mvhu,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00FDFBFC,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,138,1524,822,1
+Style: pn-9huiwgufz1,Verdana,54,&H00AD3B97,&H000000FF,&H00FBE1F8,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,342,342,45,1
+Style: pn-i6cpvmubdp,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00FDFBFC,&H00000000,-1,-1,0,0,100,100,0,0,1,6,0,2,774,663,174,1
+Style: pn-gi6trfioky,Trebuchet MS,48,&H00511CE0,&H000000FF,&H00FDFBFC,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,576,843,795,1
+Style: pn-7mlss98nk5,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,795,921,870,1
+Style: pn-0um3slqo57,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,690,822,420,1
+Style: pn-q2w7lsahab,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,981,495,156,1
+Style: pn-repr3ehljx,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,561,732,66,1
+Style: pn-lujwodeqy4,Trebuchet MS,48,&H008A1219,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,1230,237,156,1
+Style: pn-fkxp3mgu8y,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,300,1284,630,1
+Style: pn-i4oy7fi2o7,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,645,387,621,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,Caption,0,0,0,,{\fscx75\fscy75\pos(1548,303)}Çeviri: Ata\NRedaksiyon: shxd\NEncode: shxd\NUpload: shxd\N https://discord.gg/akzHAQ2Dh6\N
 Dialogue: 0,0:00:01.20,0:00:06.20,Snack - Episode Title,Caption,0,0,0,,{\pos(967.2,996.6)\fad(521,517)}(Beni olduğum gibi gör)
 Dialogue: 0,0:00:01.20,0:00:06.20,Snack - Episode Title,Caption,0,0,0,,{\pos(415.2,824.6)\fad(521,517)}Hiçbirimiz özgür değiliz
+Dialogue: 0,0:00:04.99,0:00:08.54,sign_121_2_POOP,Caption,0,0,0,,{\blur3\fs60\frz21.2\3c&H35576F&\frx2\fry4}BOK
 Dialogue: 9,0:00:11.66,0:00:15.83,Default,Cat Yellow,0,0,0,,Aah, cidden o kartı mı istiyorsun?
 Dialogue: 0,0:00:15.08,0:00:15.83,Default,Cat Purple,0,0,0,,{\pos(948,103)}Ha... Ne?
 Dialogue: 9,0:00:15.83,0:00:17.92,Default,Cat Purple,0,0,0,,Ne demek istedin az önce?
 Dialogue: 9,0:00:17.92,0:00:21.20,Default,Cat Yellow,0,0,0,,Dokundun artık karda, geri almak yok.
 Dialogue: 9,0:00:21.20,0:00:22.53,Default,Cat Purple,0,0,0,,Ne?!
 Dialogue: 9,0:00:22.53,0:00:24.75,Default,Cat Red,0,0,0,,Ben cidden...
+Dialogue: 1,0:00:25.39,0:00:28.64,sign_610_10_Cat_Red,Caption {red},0,0,0,,{\fad(1,434)\frz354.7\pos(1567.8,162.6)}Kırmızı Kedi
+Dialogue: 0,0:00:25.39,0:00:28.64,sign_610_11_Cat_Red1,Caption {red},0,0,0,,{\fad(1,434)\pos(1567.8,114.6)\frz354.7}Kırmızı Kedi
+Dialogue: 0,0:00:25.39,0:00:28.64,sign_610_10_Cat_Red,Caption {white},0,0,0,,{\fad(1,434)\c&HFFFFFF&\3c&H030505&\pos(1643,760.2)}(Biraz) Sapık\NGösterişçi
 Dialogue: 9,0:00:25.47,0:00:29.39,Default,Cat Red,0,0,0,,yeryüzünde salabilmek istiyorum!
+Dialogue: 1,0:00:29.18,0:00:33.94,sign_610_10_Cat_Red,Caption {blue},0,0,0,,{\fad(1,562)\pos(691.8,124.2)\frz8.621\c&HD26244&}Mavi Kedi
+Dialogue: 0,0:00:29.18,0:00:33.94,sign_610_11_Cat_Red1,Caption {blue},0,0,0,,{\fad(1,562)\pos(691.8,124.2)\frz8.621\c&HD26244&}Mavi Kedi
+Dialogue: 0,0:00:29.18,0:00:33.94,sign_701_17_Slightly_Pervert,Caption {white},0,0,0,,{\fad(1,434)\pos(490.2,766.2)}(Birazcık)\NSapık\NLider
 Dialogue: 9,0:00:29.39,0:00:31.50,Default,Cat Blue,0,0,0,,Unut gitsin, Red.
 Dialogue: 9,0:00:31.50,0:00:34.01,Default,Cat Blue,0,0,0,,Ustadan azar yiyeceksin.
+Dialogue: 1,0:00:33.94,0:00:37.65,sign_610_10_Cat_Red,Caption {purple},0,0,0,,{\c&H9C09AA&\pos(1757.4,198.6)}Mor\NKedi
+Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_11_Cat_Red1,Caption {purple},0,0,0,,{\c&H9C09AA&\pos(1757.4,198.6)}Mor\NKedi
+Dialogue: 0,0:00:33.94,0:00:37.65,sign_815_21_Slightly_Pervert,Caption {white},0,0,0,,{\pos(1611,780.6)}(Biraz)\NAsık Yüzlü\NSapık
+Dialogue: 1,0:00:33.94,0:00:37.65,sign_815_22_Cat_Yellow,Caption {yellow},0,0,0,,{\frz15.51\pos(259.8,207.6)\c&H3A79F6&}Sarı Kedi
+Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_11_Cat_Red1,Caption {yellow},0,0,0,,{\frz15.51\pos(259.8,207.6)\c&H3A79F6&}Sarı Kedi
+Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_10_Cat_Red,Caption {white},0,0,0,,{\c&HFFFFFF&\3c&H030505&\pos(207,995.4)}Anormal\NSapık
 Dialogue: 9,0:00:34.01,0:00:37.65,Default,Cat Purple,0,0,0,,Mavi; öyle diyorsun da sen de salmak istiyorsun.
 Dialogue: 9,0:00:39.87,0:00:43.47,Default,Cat Blue,0,0,0,,Salmak istiyorum!
 Dialogue: 9,0:00:44.93,0:00:47.36,Default,Cat Blue,0,0,0,,Sokaklara bırakalım!
-Dialogue: 9,0:00:47.36,0:00:51.13,Default,All Cats,0,0,0,,Evet! Cowabunga!
-Dialogue: 0,0:00:47.36,0:00:51.13,Default,All Cats,0,0,0,,{\pos(984,243)}ÇN: Cowabunga; hadi gidelim, saldıralım gibi bir anlama  geliyor. Tam çevirisi olmadığı ve slogan olduğu için çevirmeyeceğim.
+Dialogue: 9,0:00:47.36,0:00:51.13,Default,All Cats,0,0,0,,Evet! Hurraaa!
 Dialogue: 0,0:00:53.79,0:00:55.00,Eyecatch - Snack Basue,Caption,0,0,0,,{\c&H0A161B&\fs36\move(961.2,46.2,963.6,641.4,25,1193)\blur1.5}Snack Basue
 Dialogue: 9,0:00:55.89,0:00:58.03,Default,All Cats,0,0,0,,Cowabunga!
 Dialogue: 9,0:00:58.03,0:00:58.84,Default,Akemi,0,0,0,,Olmaz!
@@ -67,6 +96,8 @@ Dialogue: 9,0:02:52.82,0:02:55.87,Default,Dark Knight,0,0,0,,Kılıcıma karşı
 Dialogue: 9,0:02:59.29,0:03:03.31,Default,Muscle Brain,0,0,0,,Ha! Her zamanki gibi, garip bir piçsin.
 Dialogue: 9,0:03:04.72,0:03:06.08,Default,Akemi,0,0,0,,Eee...
 Dialogue: 9,0:03:06.38,0:03:08.71,Main - Top,Akemi,0,0,0,,Bir içecek alabilir miyim?
+Dialogue: 0,0:03:06.63,0:03:11.64,sign_4476_42__Dedicated_to_th,Caption,0,0,0,,{\pos(996,1002.2)\fad(521,517)}(Güçlü Düşmanlarla Çevrili... ...!)
+Dialogue: 0,0:03:06.63,0:03:11.64,sign_4476_42__Dedicated_to_th,Caption,0,0,0,,{\pos(412,838.2)\fad(521,517)}Gece Yarısı Saatlerinde
 Dialogue: 9,0:03:09.72,0:03:10.68,Main - Top,Last Boss,0,0,0,,Tabii.
 Dialogue: 9,0:03:11.12,0:03:12.64,Main - Top,Akemi,0,0,0,,O zaman sorun yok!
 Dialogue: 9,0:03:13.03,0:03:14.58,Default,Akemi,0,0,0,,Alkol için teşekkürler!
@@ -104,6 +135,7 @@ Dialogue: 9,0:04:58.61,0:05:02.40,Default,Akemi,0,0,0,,harika bir sahnesi olur y
 Dialogue: 9,0:05:02.40,0:05:05.91,Default,Akemi,0,0,0,,Dürüst olursak, izleyici asla o başarıyı anlayamaz
 Dialogue: 9,0:05:05.91,0:05:09.35,Default,Akemi,0,0,0,,o yüzden karakterle ilgili espriler yaparlar!
 Dialogue: 9,0:05:09.75,0:05:13.18,Main - Top,Akemi,0,0,0,,Hokkaido ile bir bağlantısı olan şair Takuboku Ishikawa bile
+Dialogue: 0,0:05:11.71,0:05:19.28,sign_7475_82_Takuboku_Ishikaw,Caption,0,0,0,,{\pos(951.6,853.2)\c&H000306&\3c&HE8E9E8&}Takuboku Ishikawa
 Dialogue: 9,0:05:13.18,0:05:16.39,Main - Top,Akemi,0,0,0,,aptalca hikâyeleriyle ünlendi!
 Dialogue: 9,0:05:16.39,0:05:19.79,Main - Top,Basue,0,0,0,,Akemi-chan, o senin kendi düşüncen.
 Dialogue: 9,0:05:19.79,0:05:21.20,Main - Top,Takuboku,0,0,0,,Paramı alayım.
@@ -202,7 +234,7 @@ Dialogue: 9,0:10:35.60,0:10:40.50,Default,Akemi,0,0,0,,Sorun olmaz herhalde? İn
 Dialogue: 9,0:10:40.90,0:10:43.52,Default,Tatsu-ni,0,0,0,,Öyle mi diyorsun? Sen söyleyince fark ettim,
 Dialogue: 9,0:10:43.52,0:10:46.40,Default,Tatsu-ni,0,0,0,,öyle zannedilecek kadar yaş farkı var aslında ama...
 Dialogue: 9,0:10:46.40,0:10:50.55,Default,Tatsu-ni,0,0,0,,Millet papa-katsu yapıyorum sanabilir!
-Dialogue: 0,0:10:46.40,0:10:50.55,Default,Tatsu-ni,0,0,0,,{\pos(952,279)}ÇN:  Genç kadınların, kendilerinden yaşça büyük ve varlıklı erkeklerle vakit geçirmesi karşılığında maddi destek, harçlık veya lüks hediyeler almasıdır.
+Dialogue: 0,0:10:46.40,0:10:50.55,Default,Tatsu-ni,0,0,0,,{\pos(952,279)}ÇN: Genç kadınların, kendilerinden yaşça büyük ve varlıklı erkeklerle vakit geçirmesi karşılığında maddi destek, harçlık veya lüks hediyeler almasıdır.
 Dialogue: 9,0:10:50.55,0:10:52.35,Default,Tatsu-ni,0,0,0,,Ayrıca sadece ikimiz olursak,
 Dialogue: 9,0:10:52.35,0:10:54.47,Default,Akemi,0,0,0,,eğlence parkında ranevuya çıkmışız gibi görünebilir...
 Dialogue: 9,0:10:54.47,0:10:55.92,Default,Akemi,0,0,0,,Öyle miymiş...
@@ -212,8 +244,10 @@ Dialogue: 9,0:11:03.02,0:11:06.02,Default,Akemi,0,0,0,,ama bu yüzden söylenmen
 Dialogue: 9,0:11:06.36,0:11:10.18,Default,Akemi,0,0,0,,Hmm... O zaman Mama'yı da davet etsek?
 Dialogue: 9,0:11:10.18,0:11:11.66,Default,Tatsu-ni,0,0,0,,Mama, ha...
 Dialogue: 9,0:11:11.66,0:11:14.50,Default,Akemi,0,0,0,,İki kişi olursak gece baykuşu gibi gözükebiliriz ama...
+Dialogue: 0,0:11:14.41,0:11:18.62,sign_610_10_Cat_Red,Caption,0,0,0,,{\fad(1,598)\pos(711,172.2)\c&H38282D&\3c&H6A4562&}Kanunsuzlar
 Dialogue: 9,0:11:14.50,0:11:15.73,Default,Basue,0,0,0,,Kanunsuz!
 Dialogue: 9,0:11:15.73,0:11:19.74,Default,Akemi,0,0,0,,yaşlı bir figür eklersek daha ahlâklı bir grup olarak görünebiliriz.
+Dialogue: 0,0:11:19.71,0:11:25.55,sign_16298_192_Elderly_IN__Mora,Caption,0,0,0,,{\pos(681,232.2)\c&H2148A0&}Yaşlı {\c&H2BB4F5&}Var! {\c&HA5B319&}Ahlâk yüksek!
 Dialogue: 9,0:11:19.74,0:11:22.62,Default,Basue,0,0,0,,Yaşlı VAR! AHLÂK YÜKSEK!
 Dialogue: 9,0:11:22.62,0:11:25.55,Default,Tatsu-ni,0,0,0,,Ama hem mama hem sen or'da olursan...
 Dialogue: 9,0:11:25.55,0:11:28.22,Default,Tatsu-ni,0,0,0,,Snack bardan bir farkı kalmaz ki.
@@ -300,9 +334,23 @@ Dialogue: 9,0:15:55.06,0:15:57.28,Default,Akemi,0,0,0,,Kosame-chan gerçekten b�
 Dialogue: 9,0:15:59.38,0:16:03.30,Default,Kosame,0,0,0,,Pek... şarkı söylemez misin?
 Dialogue: 9,0:16:03.30,0:16:04.87,Default,Basue,0,0,0,,Ah, g-geldi işte!
 Dialogue: 9,0:16:04.87,0:16:06.34,Default,Basue,0,0,0,,Karaokeyi başlangıç noktası olarak kullanıyor
+Dialogue: 0,0:16:04.87,0:16:07.33,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(897,210,892.2,-97.2,22,2441)}Karaoke
+Dialogue: 0,0:16:04.87,0:16:09.04,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(1254.6,390,1254.6,-70.8,22,4151)}Şarkı söylememek
+Dialogue: 0,0:16:04.87,0:16:09.20,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(517.8,404.4,520.2,-138,22,4318)}Şarkı
+Dialogue: 0,0:16:04.87,0:16:10.96,sign_23135_280_Favorite_Singer_,Caption,0,0,0,,{\move(894,614.4,894,-76.8,22,6070)}Favori Şarkıcın?
+Dialogue: 0,0:16:04.87,0:16:11.62,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(388.2,673.2,397.8,-99.6,22,6737)}Şarkı
+Dialogue: 0,0:16:04.87,0:16:13.71,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(676.2,915.6,681,-82.8,22,8822)}Favorim var
+Dialogue: 0,0:16:04.87,0:16:13.83,sign_23135_282_Doesn_t_Have_One,Caption,0,0,0,,{\move(1176.6,928.8,1176.6,-84,22,8947)}Bir favorim yok
+Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_284_Talk_about_popul,Caption,0,0,0,,{\move(846.6,1062,839.4,202.8,26,8201)}Popüler şakılarla ilgili konuşmak
+Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_285_Personality_Deni,Caption,0,0,0,,{\move(1447.8,1060.8,1443,165.6,26,8201)}Kişilik İnkârı
+Dialogue: 0,0:16:05.99,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,böylece konuşmayı sevdiği sanatçılara doğru kaydırabilecek!
 Dialogue: 9,0:16:06.34,0:16:08.70,Default,Basue,0,0,0,,böylece konuşmayı sevdiği sanatçılara doğru kaydırabilecek!
 Dialogue: 9,0:16:08.70,0:16:10.67,Default,Basue,0,0,0,,Zaferi garantileyecek o harika taktik!
+Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(517.8,1062,517.8,519.6,26,5031)}Hayaller
+Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(887.4,1062,880.2,519.6,26,5031)}Sevgi
+Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(1254.6,1062,1245,514.8,26,5031)}Umur
 Dialogue: 9,0:16:10.67,0:16:14.17,Default,Akemi,0,0,0,,Bu kız... Dövüşte seviye atlamış resmen!
+Dialogue: 0,0:16:12.62,0:16:14.17,sign_610_10_Cat_Red,Caption,0,0,0,,{\c&HFDFFFE&\3c&H080B09&\fs54\move(871.8,1029,869.4,714.6,30,1531)}Sınırsız
 Dialogue: 9,0:16:14.17,0:16:19.09,Default,Morita,0,0,0,,Severim aslında... \NAma snack barlarda pek söylemem.
 Dialogue: 9,0:16:19.09,0:16:22.35,Default,Kosame,0,0,0,,Snack bar dışında ne tarz şarkılar söylersin?
 Dialogue: 9,0:16:23.32,0:16:24.95,Default,Morita,0,0,0,,Yani...
@@ -405,6 +453,8 @@ Dialogue: 9,0:21:19.57,0:21:24.08,Default,Basue,0,0,0,,Genelde snack barda hangi
 Dialogue: 9,0:21:24.08,0:21:27.12,Default,Kosame,0,0,0,,İngilizce manyak bir rap şarkısı olsa da mı?
 Dialogue: 9,0:21:27.12,0:21:30.15,Default,Basue,0,0,0,,O, uzmanlık alanım olur.
 Dialogue: 9,0:21:30.15,0:21:31.76,Default,Kosame,0,0,0,,Anladım...
+Dialogue: 0,0:21:33.15,0:21:37.07,sign_30226_378_Reserved________,Caption,0,0,0,,{\c&HC6D9DE&\b1\pos(422.4,466.8)}Rezerve
+Dialogue: 0,0:21:33.15,0:21:37.07,sign_30226_379__While_Listening,Caption,0,0,0,,{\pos(1127.4,538.2)\3c&H253245&\c&HD0E0E8&}Dostlar
 Dialogue: 9,0:21:33.70,0:21:37.07,Default,Akemi,0,0,0,,Bak, bir şarkı biliyormuşsun işte.
 Dialogue: 9,0:21:38.46,0:21:40.33,Default,Kosame,0,0,0,,Annem çok sever bunu.
 Dialogue: 9,0:21:41.24,0:21:44.12,Default,Akemi,0,0,0,,Annen demek...
@@ -439,37 +489,37 @@ Dialogue: 9,0:23:36.61,0:23:41.07,Default,Basue,0,0,0,,Tabii, son zamanlarda hi�
 Dialogue: 9,0:23:41.07,0:23:43.94,Default,Akemi,0,0,0,,Doğal olarak senin de dünyaya bakış açın değişmiş olabilir.
 Dialogue: 9,0:23:43.94,0:23:47.01,Default,Basue,0,0,0,,Yani zaman durmuş gibi hissetmen normal.
 Dialogue: 9,0:23:47.01,0:23:49.70,Default,Morita,0,0,0,,Sözlere yüzde yüz uymana gerek yok aslında, tamam mı?
-Dialogue: 0,0:00:04.99,0:00:08.54,sign_121_2_POOP,Caption,0,0,0,,{\blur3\fs60\frz21.2\3c&H35576F&\frx2\fry4\move(260.4,826.8,262.8,303.6,26,2200)BOK
-Dialogue: 1,0:00:25.39,0:00:28.64,sign_610_10_Cat_Red,Caption {red},0,0,0,,{\fad(1,434)\frz354.7\pos(1567.8,162.6)}Kırmızı Kedi
-Dialogue: 0,0:00:25.39,0:00:28.64,sign_610_11_Cat_Red1,Caption {red},0,0,0,,{\fad(1,434)\pos(1567.8,114.6)\frz354.7}Kırmızı Kedi
-Dialogue: 0,0:00:25.39,0:00:28.64,sign_610_10_Cat_Red,Caption {white},0,0,0,,{\fad(1,434)\c&HFFFFFF&\3c&H030505&\pos(1643,760.2)}(Biraz) Sapık\NGösterişçi
-Dialogue: 1,0:00:29.18,0:00:33.94,sign_610_10_Cat_Red,Caption {blue},0,0,0,,{\fad(1,562)\pos(691.8,124.2)\frz8.621\c&HD26244&}Mavi Kedi
-Dialogue: 0,0:00:29.18,0:00:33.94,sign_610_11_Cat_Red1,Caption {blue},0,0,0,,{\fad(1,562)\pos(691.8,124.2)\frz8.621\c&HD26244&}Mavi Kedi
-Dialogue: 0,0:00:29.18,0:00:33.94,sign_701_17_Slightly_Pervert,Caption {white},0,0,0,,{\fad(1,434)\pos(490.2,766.2)}(Birazcık)\NSapık\NLider
-Dialogue: 1,0:00:33.94,0:00:37.65,sign_610_10_Cat_Red,Caption {purple},0,0,0,,{\c&H9C09AA&\pos(1757.4,198.6)}Mor\NKedi
-Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_11_Cat_Red1,Caption {purple},0,0,0,,{\c&H9C09AA&\pos(1757.4,198.6)}Mor\NKedi
-Dialogue: 0,0:00:33.94,0:00:37.65,sign_815_21_Slightly_Pervert,Caption {white},0,0,0,,{\pos(1611,780.6)}(Biraz)\NAsık Yüzlü\NSapık
-Dialogue: 1,0:00:33.94,0:00:37.65,sign_815_22_Cat_Yellow,Caption {yellow},0,0,0,,{\frz15.51\pos(259.8,207.6)\c&H3A79F6&}Sarı Kedi
-Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_11_Cat_Red1,Caption {yellow},0,0,0,,{\frz15.51\pos(259.8,207.6)\c&H3A79F6&}Sarı Kedi
-Dialogue: 0,0:00:33.94,0:00:37.65,sign_610_10_Cat_Red,Caption {white},0,0,0,,{\c&HFFFFFF&\3c&H030505&\pos(207,995.4)}Anormal\NSapık
-Dialogue: 0,0:03:06.63,0:03:11.64,sign_4476_42__Dedicated_to_th,Caption,0,0,0,,{\pos(996,1002.2)\fad(521,517)}(Güçlü Düşmanlarla Çevrili... ...!)
-Dialogue: 0,0:03:06.63,0:03:11.64,sign_4476_42__Dedicated_to_th,Caption,0,0,0,,{\pos(412,838.2)\fad(521,517)}Gece Yarısı Saatlerinde
-Dialogue: 0,0:05:11.71,0:05:19.28,sign_7475_82_Takuboku_Ishikaw,Caption,0,0,0,,{\pos(951.6,853.2)\c&H000306&\3c&HE8E9E8&}Takuboku Ishikawa
-Dialogue: 0,0:11:14.41,0:11:18.62,sign_610_10_Cat_Red,Caption,0,0,0,,{\fad(1,598)\pos(711,172.2)\c&H38282D&\3c&H6A4562&}Kanunsuzlar
-Dialogue: 0,0:11:19.71,0:11:25.55,sign_16298_192_Elderly_IN__Mora,Caption,0,0,0,,{\pos(681,232.2)\c&H2148A0&}Yaşlı {\c&H2BB4F5&}Var! {\c&HA5B319&}Ahlâk yüksek!
-Dialogue: 0,0:16:04.87,0:16:07.33,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(897,210,892.2,-97.2,22,2441)}Karaoke
-Dialogue: 0,0:16:04.87,0:16:09.04,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(1254.6,390,1254.6,-70.8,22,4151)}Şarkı söylememek
-Dialogue: 0,0:16:04.87,0:16:09.20,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(517.8,404.4,520.2,-138,22,4318)}Şarkı
-Dialogue: 0,0:16:04.87,0:16:10.96,sign_23135_280_Favorite_Singer_,Caption,0,0,0,,{\move(894,614.4,894,-76.8,22,6070)}Favori Şarkıcın?
-Dialogue: 0,0:16:04.87,0:16:11.62,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(388.2,673.2,397.8,-99.6,22,6737)}Şarkı
-Dialogue: 0,0:16:04.87,0:16:13.71,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(676.2,915.6,681,-82.8,22,8822)}Favorim var
-Dialogue: 0,0:16:04.87,0:16:13.83,sign_23135_282_Doesn_t_Have_One,Caption,0,0,0,,{\move(1176.6,928.8,1176.6,-84,22,8947)}Bir favorim yok
-Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_284_Talk_about_popul,Caption,0,0,0,,{\move(846.6,1062,839.4,202.8,26,8201)}Popüler şakılarla ilgili konuşmak
-Dialogue: 0,0:16:05.95,0:16:14.17,sign_23161_285_Personality_Deni,Caption,0,0,0,,{\move(1447.8,1060.8,1443,165.6,26,8201)}Kişilik İnkârı
-Dialogue: 0,0:16:05.99,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,böylece konuşmayı sevdiği sanatçılara doğru kaydırabilecek!
-Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(517.8,1062,517.8,519.6,26,5031)}Hayaller
-Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(887.4,1062,880.2,519.6,26,5031)}Sevgi
-Dialogue: 0,0:16:09.12,0:16:14.17,sign_23135_276_Karaoke,Caption,0,0,0,,{\move(1254.6,1062,1245,514.8,26,5031)}Umur
-Dialogue: 0,0:16:12.62,0:16:14.17,sign_610_10_Cat_Red,Caption,0,0,0,,{\c&HFDFFFE&\3c&H080B09&\fs54\move(871.8,1029,869.4,714.6,30,1531)}Sınırsız
-Dialogue: 0,0:21:33.15,0:21:37.07,sign_30226_378_Reserved________,Caption,0,0,0,,{\c&HC6D9DE&\b1\pos(422.4,466.8)}Rezerve
-Dialogue: 0,0:21:33.15,0:21:37.07,sign_30226_379__While_Listening,Caption,0,0,0,,{\pos(1127.4,538.2)\3c&H253245&\c&HD0E0E8&}Dostlar
+Dialogue: 0,0:00:04.99,0:00:08.54,pn-rxshwd1mad,Caption,0,0,0,,{\blur3\fs60\frz21.2\3c&H35576F&\frx2\fry4\move(260.4,826.8,262.8,303.6,26,2200)BOK
+Dialogue: 1,0:00:25.39,0:00:28.64,pn-91a4ylcr85,Caption {red},0,0,0,,{\fad(1,434)\frz354.7\pos(1567.8,162.6)}Kırmızı Kedi
+Dialogue: 0,0:00:25.39,0:00:28.64,pn-2ntz6xzd7g,Caption {red},0,0,0,,{\fad(1,434)\pos(1567.8,114.6)\frz354.7}Kırmızı Kedi
+Dialogue: 0,0:00:25.39,0:00:28.64,pn-91a4ylcr85,Caption {white},0,0,0,,{\fad(1,434)\c&HFFFFFF&\3c&H030505&\pos(1643,760.2)}(Biraz) Sapık\NGösterişçi
+Dialogue: 1,0:00:29.18,0:00:33.94,pn-91a4ylcr85,Caption {blue},0,0,0,,{\fad(1,562)\pos(691.8,124.2)\frz8.621\c&HD26244&}Mavi Kedi
+Dialogue: 0,0:00:29.18,0:00:33.94,pn-2ntz6xzd7g,Caption {blue},0,0,0,,{\fad(1,562)\pos(691.8,124.2)\frz8.621\c&HD26244&}Mavi Kedi
+Dialogue: 0,0:00:29.18,0:00:33.94,pn-h92fh0h5cx,Caption {white},0,0,0,,{\fad(1,434)\pos(490.2,766.2)}(Birazcık)\NSapık\NLider
+Dialogue: 1,0:00:33.94,0:00:37.65,pn-91a4ylcr85,Caption {purple},0,0,0,,{\c&H9C09AA&\pos(1757.4,198.6)}Mor\NKedi
+Dialogue: 0,0:00:33.94,0:00:37.65,pn-2ntz6xzd7g,Caption {purple},0,0,0,,{\c&H9C09AA&\pos(1757.4,198.6)}Mor\NKedi
+Dialogue: 0,0:00:33.94,0:00:37.65,pn-trmum4viks,Caption {white},0,0,0,,{\pos(1611,780.6)}(Biraz)\NAsık Yüzlü\NSapık
+Dialogue: 1,0:00:33.94,0:00:37.65,pn-nr4z62mvhu,Caption {yellow},0,0,0,,{\frz15.51\pos(259.8,207.6)\c&H3A79F6&}Sarı Kedi
+Dialogue: 0,0:00:33.94,0:00:37.65,pn-2ntz6xzd7g,Caption {yellow},0,0,0,,{\frz15.51\pos(259.8,207.6)\c&H3A79F6&}Sarı Kedi
+Dialogue: 0,0:00:33.94,0:00:37.65,pn-91a4ylcr85,Caption {white},0,0,0,,{\c&HFFFFFF&\3c&H030505&\pos(207,995.4)}Anormal\NSapık
+Dialogue: 0,0:03:06.63,0:03:11.64,pn-9huiwgufz1,Caption,0,0,0,,{\pos(996,1002.2)\fad(521,517)}(Güçlü Düşmanlarla Çevrili... ...!)
+Dialogue: 0,0:03:06.63,0:03:11.64,pn-9huiwgufz1,Caption,0,0,0,,{\pos(412,838.2)\fad(521,517)}Gece Yarısı Saatlerinde
+Dialogue: 0,0:05:11.71,0:05:19.28,pn-i6cpvmubdp,Caption,0,0,0,,{\pos(951.6,853.2)\c&H000306&\3c&HE8E9E8&}Takuboku Ishikawa
+Dialogue: 0,0:11:14.41,0:11:18.62,pn-91a4ylcr85,Caption,0,0,0,,{\fad(1,598)\pos(711,172.2)\c&H38282D&\3c&H6A4562&}Kanunsuzlar
+Dialogue: 0,0:11:19.71,0:11:25.55,pn-gi6trfioky,Caption,0,0,0,,{\pos(681,232.2)\c&H2148A0&}Yaşlı {\c&H2BB4F5&}Var! {\c&HA5B319&}Ahlâk yüksek!
+Dialogue: 0,0:16:04.87,0:16:07.33,pn-7mlss98nk5,Caption,0,0,0,,{\move(897,210,892.2,-97.2,22,2441)}Karaoke
+Dialogue: 0,0:16:04.87,0:16:09.04,pn-7mlss98nk5,Caption,0,0,0,,{\move(1254.6,390,1254.6,-70.8,22,4151)}Şarkı söylememek
+Dialogue: 0,0:16:04.87,0:16:09.20,pn-7mlss98nk5,Caption,0,0,0,,{\move(517.8,404.4,520.2,-138,22,4318)}Şarkı
+Dialogue: 0,0:16:04.87,0:16:10.96,pn-0um3slqo57,Caption,0,0,0,,{\move(894,614.4,894,-76.8,22,6070)}Favori Şarkıcın?
+Dialogue: 0,0:16:04.87,0:16:11.62,pn-7mlss98nk5,Caption,0,0,0,,{\move(388.2,673.2,397.8,-99.6,22,6737)}Şarkı
+Dialogue: 0,0:16:04.87,0:16:13.71,pn-7mlss98nk5,Caption,0,0,0,,{\move(676.2,915.6,681,-82.8,22,8822)}Favorim var
+Dialogue: 0,0:16:04.87,0:16:13.83,pn-q2w7lsahab,Caption,0,0,0,,{\move(1176.6,928.8,1176.6,-84,22,8947)}Bir favorim yok
+Dialogue: 0,0:16:05.95,0:16:14.17,pn-repr3ehljx,Caption,0,0,0,,{\move(846.6,1062,839.4,202.8,26,8201)}Popüler şakılarla ilgili konuşmak
+Dialogue: 0,0:16:05.95,0:16:14.17,pn-lujwodeqy4,Caption,0,0,0,,{\move(1447.8,1060.8,1443,165.6,26,8201)}Kişilik İnkârı
+Dialogue: 0,0:16:05.99,0:16:14.17,pn-7mlss98nk5,Caption,0,0,0,,böylece konuşmayı sevdiği sanatçılara doğru kaydırabilecek!
+Dialogue: 0,0:16:09.12,0:16:14.17,pn-7mlss98nk5,Caption,0,0,0,,{\move(517.8,1062,517.8,519.6,26,5031)}Hayaller
+Dialogue: 0,0:16:09.12,0:16:14.17,pn-7mlss98nk5,Caption,0,0,0,,{\move(887.4,1062,880.2,519.6,26,5031)}Sevgi
+Dialogue: 0,0:16:09.12,0:16:14.17,pn-7mlss98nk5,Caption,0,0,0,,{\move(1254.6,1062,1245,514.8,26,5031)}Umur
+Dialogue: 0,0:16:12.62,0:16:14.17,pn-91a4ylcr85,Caption,0,0,0,,{\c&HFDFFFE&\3c&H080B09&\fs54\move(871.8,1029,869.4,714.6,30,1531)}Sınırsız
+Dialogue: 0,0:21:33.15,0:21:37.07,pn-fkxp3mgu8y,Caption,0,0,0,,{\c&HC6D9DE&\b1\pos(422.4,466.8)}Rezerve
+Dialogue: 0,0:21:33.15,0:21:37.07,pn-i4oy7fi2o7,Caption,0,0,0,,{\pos(1127.4,538.2)\3c&H253245&\c&HD0E0E8&}Dostlar
